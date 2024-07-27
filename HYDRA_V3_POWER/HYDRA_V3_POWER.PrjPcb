@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YUDMNKRV
 
 [Document3]
-DocumentPath=SAME51_PINOUT.SchDoc
+DocumentPath=STM32L051R8T6_PINOUT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
