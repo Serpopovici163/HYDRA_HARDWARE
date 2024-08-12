@@ -98,7 +98,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RXWGDSYR
 
 [Document4]
 DocumentPath=SAME51_PINOUT.SchDoc
@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SPENOSCV
 
 [Document6]
-DocumentPath=..\HYDRA_V3_RECOVERY\IIM-20670.SchDoc
+DocumentPath=..\HYDRA_V3_RECOVERY\IMU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -184,6 +184,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XXDDUAHP
+
+[Document9]
+DocumentPath=..\HYDRA_V3_NAV_CRIPPLED\ACTUATOR_PWR_PROT.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LVWKSMOC
 
 [Configuration1]
 Name=Sources
