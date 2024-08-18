@@ -1,0 +1,88 @@
+Removed Pin From Net: NetName=IMU0_MOSI Pin=U8-1
+Removed Pin From Net: NetName=IMU0_MISO Pin=U8-9
+Removed Pin From Net: NetName=IMU0_ODR Pin=U8-12
+Removed Pin From Net: NetName=IMU0_nRESET Pin=U8-18
+Removed Pin From Net: NetName=IMU0_nCS Pin=U8-23
+Removed Pin From Net: NetName=IMU0_SCLK Pin=U8-24
+Change Component Footprint: Designator=J6 Old Footprint=FTSH-105-01-F-D-RA-K-Footprint-1 New Footprint=FTSH-105-01-F-D-RA-K-Footprint-1
+Change Managed Component Library Link : Designator=J6 Old VaultGUID=275DD9A0-BDD9-47D7-8C38-F690E90B05B9 New VaultGUID=275DD9A0-BDD9-47D7-8C38-F690E90B05B9 Old ItemGUID=12c82e73-564f-4a75-92c8-5d96e29c0ce2 New ItemGUID=12c82e73-564f-4a75-92c8-5d96e29c0ce2 Old RevisionGUID=273dcdd9-82cc-45b1-bf34-995167c4954d New RevisionGUID=30a81c73-19e9-4229-969c-265067028549
+Added Component: Designator=C35(CAPC0402(1005)60_L)
+Added Component: Designator=C36(CAPC0402(1005)60_L)
+Add Component: Footprint Not Found WL-SBCD_0606
+Added Component: Designator=Q11(SISH615ADN-T1-GE3-Footprint-1)
+Added Component: Designator=Q12(SISH615ADN-T1-GE3-Footprint-1)
+Added Component: Designator=R32(RESC1005X40X25NL05T05)
+Added Component: Designator=R33(RESC1005X40X25NL05T05)
+Add Component: Footprint Not Found TCAN1146DYYRQ1-Footprint-1
+Added Component: Designator=U8(PQFN50P450X450X115_HS-25N)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sensor Type"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C35-1
+Add Pin To Net: Unknown Pin: Pin C35-2
+Add Pin To Net: Unknown Pin: Pin C36-1
+Add Pin To Net: Unknown Pin: Pin C36-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_3 Pin=D3-3
+Added Pin To Net: NetName=NetD3_4 Pin=D3-4
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=3V3 Pin=D4-2
+Added Pin To Net: NetName=3V3 Pin=D4-3
+Added Pin To Net: NetName=NetD4_4 Pin=D4-4
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Pin To Net: Unknown Pin: Pin D7-3
+Add Pin To Net: Unknown Pin: Pin D7-4
+Add Pin To Net: Unknown Pin: Pin Q11-1
+Add Pin To Net: Unknown Pin: Pin Q11-2
+Add Pin To Net: Unknown Pin: Pin Q11-3
+Add Pin To Net: Unknown Pin: Pin Q11-4
+Add Pin To Net: Unknown Pin: Pin Q11-5-6-7-8
+Add Pin To Net: Unknown Pin: Pin Q12-1
+Add Pin To Net: Unknown Pin: Pin Q12-2
+Add Pin To Net: Unknown Pin: Pin Q12-3
+Add Pin To Net: Unknown Pin: Pin Q12-4
+Add Pin To Net: Unknown Pin: Pin Q12-5-6-7-8
+Add Pin To Net: Unknown Pin: Pin R32-1
+Add Pin To Net: Unknown Pin: Pin R32-2
+Add Pin To Net: Unknown Pin: Pin R33-1
+Add Pin To Net: Unknown Pin: Pin R33-2
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Add Pin To Net: Unknown Pin: Pin U6-9
+Add Pin To Net: Unknown Pin: Pin U6-10
+Add Pin To Net: Unknown Pin: Pin U6-11
+Add Pin To Net: Unknown Pin: Pin U6-12
+Add Pin To Net: Unknown Pin: Pin U6-13
+Add Pin To Net: Unknown Pin: Pin U6-14
+Added Pin To Net: NetName=IMU0_MOSI Pin=U8-1
+Added Pin To Net: NetName=IMU0_MISO Pin=U8-9
+Added Pin To Net: NetName=IMU0_ODR Pin=U8-12
+Added Pin To Net: NetName=IMU0_nRESET Pin=U8-18
+Added Pin To Net: NetName=IMU0_nCS Pin=U8-23
+Added Pin To Net: NetName=IMU0_SCLK Pin=U8-24
+Add Net: Net with name "5V_OC_TP" already exists
+Add Class Member: Failed to add class member : Component C35 Capacitor 10nF +/-20% 50V 0402
+Add Class Member: Failed to add class member : Component C36 Capacitor 10nF +/-20% 50V 0402
+Added Member To Class: ClassName=MCU_0 Member=Component D3 150066RG54050
+Added Member To Class: ClassName=MCU_0 Member=Component D4 150066RG54050
+Add Class Member: Failed to add class member : Component D7 150066RG54050
+Add Class Member: Failed to add class member : Component Q11 SISH615ADN-T1-GE3
+Add Class Member: Failed to add class member : Component Q12 SISH615ADN-T1-GE3
+Add Class Member: Failed to add class member : Component R32 0402 JUMPER 0 OHM
+Add Class Member: Failed to add class member : Component R33 0402 JUMPER 0 OHM
+Add Class Member: Failed to add class member : Component U6 TCAN1146DYYRQ1
+Added Member To Class: ClassName=IMU_0 Member=Component U8 IIM-20670
