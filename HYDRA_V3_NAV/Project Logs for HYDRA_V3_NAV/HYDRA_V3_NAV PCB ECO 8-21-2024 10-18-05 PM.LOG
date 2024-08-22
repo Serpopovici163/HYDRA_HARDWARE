@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SPI4_nCS Pin=U1-41
+Removed Pin From Net: NetName=SPI4_SCLK Pin=U1-42
+Removed Pin From Net: NetName=SPI4_MISO Pin=U1-43
+Removed Pin From Net: NetName=SPI4_MOSI Pin=U1-44
+Added Pin To Net: NetName=SPI4_SCLK Pin=U1-1
+Added Pin To Net: NetName=SPI4_nCS Pin=U1-3
+Added Pin To Net: NetName=SPI4_MISO Pin=U1-4
+Added Pin To Net: NetName=SPI4_MOSI Pin=U1-5
+Add Net: Net with name "5V_OC_TP" already exists

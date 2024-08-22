@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=TXD Pin=R83-1
+Removed Pin From Net: NetName=RXD Pin=R84-1
+Added Pin To Net: NetName=TXD Pin=R83-2
+Added Pin To Net: NetName=RXD Pin=R84-2
+Add Net: Net with name "5V_OC_TP" already exists
+Added Pin To Net: NetName=NetR83_1 Pin=R83-1
+Added Pin To Net: NetName=NetR83_1 Pin=U1-97
+Added Net: Name=NetR83_1
+Added Pin To Net: NetName=NetR84_1 Pin=R84-1
+Added Pin To Net: NetName=NetR84_1 Pin=U1-98
+Added Net: Name=NetR84_1
