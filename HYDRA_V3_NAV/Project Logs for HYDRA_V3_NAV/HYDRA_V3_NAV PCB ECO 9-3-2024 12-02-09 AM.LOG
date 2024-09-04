@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=IMU1_MISO New Net Name=IMU1_SCLK
+Change Net Name : Old Net Name=IMU1_MOSI New Net Name=IMU1_nCS
+Change Net Name : Old Net Name=IMU1_nCS New Net Name=IMU1_MOSI
+Change Net Name : Old Net Name=IMU1_SCLK New Net Name=IMU1_MISO
