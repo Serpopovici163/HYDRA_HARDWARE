@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PWR_OK_LED Pin=D1-2
+Removed Pin From Net: NetName=PWR_OK_LED Pin=Q2-5-6-7-8
+Removed Pin From Net: NetName=PWR_OK_LED Pin=TP3-1
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ5_1
+Change Net Name : Old Net Name=PWR_OK_LED New Net Name=5V_INT
+Added Pin To Net: NetName=PWR_OK_LED Pin=D1-2
+Added Pin To Net: NetName=PWR_OK_LED Pin=Q2-5-6-7-8
+Added Pin To Net: NetName=PWR_OK_LED Pin=TP3-1
+Added Net: Name=PWR_OK_LED
