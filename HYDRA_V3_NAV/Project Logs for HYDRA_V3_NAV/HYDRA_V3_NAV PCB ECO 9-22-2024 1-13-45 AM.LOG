@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=IMU0_nRESET Pin=U1-92
+Removed Pin From Net: NetName=CAN1_TX Pin=U5-1
+Removed Pin From Net: NetName=CAN1_RX Pin=U5-4
+Added Pin To Net: NetName=IMU0_nRESET Pin=U1-90
+Added Pin To Net: NetName=CAN2_RX Pin=U1-91
+Added Pin To Net: NetName=CAN2_RX Pin=U5-4
+Added Net: Name=CAN2_RX
+Added Pin To Net: NetName=CAN2_TX Pin=U1-92
+Added Pin To Net: NetName=CAN2_TX Pin=U5-1
+Added Net: Name=CAN2_TX

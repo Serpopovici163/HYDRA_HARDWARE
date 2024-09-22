@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NAV_G_LED Pin=U1-32
+Removed Pin From Net: NetName=NAV_R_LED Pin=U1-33
+Added Pin To Net: NetName=NAV_G_LED Pin=U1-22
+Added Pin To Net: NetName=NAV_R_LED Pin=U1-23

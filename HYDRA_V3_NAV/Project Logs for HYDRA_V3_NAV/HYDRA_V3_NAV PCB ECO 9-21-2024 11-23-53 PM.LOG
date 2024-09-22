@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=IMU0_nCS Pin=U1-28
+Added Pin To Net: NetName=IMU0_SCLK Pin=U1-29
+Added Pin To Net: NetName=IMU0_MISO Pin=U1-30
+Added Pin To Net: NetName=IMU0_MOSI Pin=U1-31

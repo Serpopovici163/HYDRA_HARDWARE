@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=3V3 Pin=D1-3
+Removed Pin From Net: NetName=3V3_CUTOFF_MOSFET Pin=D8-A
+Removed Pin From Net: NetName=VCC Pin=R9-1
+Removed Pin From Net: NetName=5V_PRE_SHUNT Pin=R11-1
+Removed Pin From Net: NetName=5V_PRE_SHUNT Pin=R12-2
+Removed Pin From Net: NetName=NetC16_1 Pin=R16-1
+Removed Pin From Net: NetName=NetC16_1 Pin=R17-2
+Removed Pin From Net: NetName=GND Pin=R74-1
+Removed Pin From Net: NetName=NetD1_4 Pin=R80-1
+Removed Pin From Net: NetName=NetQ17_3 Pin=R80-2
+Removed Pin From Net: NetName=GND Pin=R85-1
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Pin From Net: NetName=VCC Pin=U3-6
+Removed Member From Class: ClassName=PWR_PROT_0 Member=C15
+Removed Member From Class: ClassName=PWR_PROT_0 Member=D6
+Removed Member From Class: ClassName=PWR_PROT_0 Member=D8
+Removed Member From Class: ClassName=PWR_PROT_0 Member=Q1
+Removed Member From Class: ClassName=PWR_PROT_0 Member=Q2
+Removed Member From Class: ClassName=PWR_PROT_0 Member=R9
+Removed Member From Class: ClassName=PWR_PROT_0 Member=R11
+Removed Member From Class: ClassName=PWR_PROT_0 Member=R12
+Removed Member From Class: ClassName=PWR_PROT_0 Member=R14
+Removed Member From Class: ClassName=PWR_PROT_0 Member=R73
+Removed Member From Class: ClassName=PWR_PROT_0 Member=R74
+Removed Member From Class: ClassName=PWR_PROT_0 Member=R77
+Removed Member From Class: ClassName=PWR_PROT_0 Member=R85
+Removed Member From Class: ClassName=PWR_PROT_0 Member=TP9
+Removed Member From Class: ClassName=PWR_PROT_0 Member=U3
+Change Component Footprint: Designator=R80 Old Footprint=RESC1608X55X30LL15T15 New Footprint=RESC1608X55X30LL15T15
+Change Component Comment : Designator=R80 Old Comment=ERJ-3EKF3300V New Comment=ERJ-3EKF1001V
+Change Managed Component Library Link : Designator=R80 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=81F84BFC-97A3-454F-87CF-6EE81748FB79 New ItemGUID=15E99ED1-FE4D-4509-A4CB-202B754A1072 Old RevisionGUID=A6877783-A948-4550-AD29-5CA15543A78F New RevisionGUID=B5BF06F6-159E-4AE9-958F-413F2CF8C3A3
+Change component parameters: Designator = "R80" ("R80"); Footprint = "RESC1608X55X30LL15T15"; UniqueID = "\SGKMVKYS\AXEDCNUQ" ("\SGKMVKYS\AXEDCNUQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3EKF1001V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=D1-2
+Added Pin To Net: NetName=VCC Pin=D1-3
+Added Pin To Net: NetName=NetQ17_3 Pin=R80-1
+Added Pin To Net: NetName=NetD1_4 Pin=R80-2
+Change Net Name : Old Net Name=5V_PRE_SHUNT New Net Name=PRE_5V
+Added Pin To Net: NetName=5V Pin=TP3-1
+Added Net: Name=5V
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=R17-2
+Added Net: Name=NetR16_1

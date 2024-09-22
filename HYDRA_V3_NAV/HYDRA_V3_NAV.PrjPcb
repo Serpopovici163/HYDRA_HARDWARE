@@ -185,6 +185,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LVWKSMOC
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for HYDRA_V3_NAV\Design Rule Check - HYDRA_V3_NAV.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
