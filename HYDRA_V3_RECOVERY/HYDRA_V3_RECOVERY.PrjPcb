@@ -137,7 +137,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HLAVCSWZ
 
 [Document6]
-DocumentPath=SENSORS.SchDoc
+DocumentPath=SENSOR_BANK.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
