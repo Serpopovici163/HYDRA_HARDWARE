@@ -1,0 +1,189 @@
+Removed Pin From Net: NetName=INT_PWR Pin=C23-1
+Change Component Footprint: Designator=U1 Old Footprint=FP-TSOT-5LD-PL-1-MFG New Footprint=FP-TSOT-5LD-PL-1-MFG
+Added Component: Designator=P1(FP-53261-0771-MFG)
+Add component (AddParameter): Name = "Body Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Blade Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Blade Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "5.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "13.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "PicoBlade"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "125V"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SISH615ADN-T1-GE3-Footprint-1)
+Added Component: Designator=Q2(SISH615ADN-T1-GE3-Footprint-1)
+Added Component: Designator=Q3(SISH615ADN-T1-GE3-Footprint-1)
+Added Component: Designator=Q4(SISH615ADN-T1-GE3-Footprint-1)
+Added Component: Designator=Q5(SISH615ADN-T1-GE3-Footprint-1)
+Added Component: Designator=Q6(SISH615ADN-T1-GE3-Footprint-1)
+Added Component: Designator=Q10_EXT_PWR_PROT(SISH615ADN-T1-GE3-Footprint-1)
+Added Component: Designator=Q10_INT_PWR_PROT(SISH615ADN-T1-GE3-Footprint-1)
+Added Component: Designator=Q11_EXT_PWR_PROT(SISH615ADN-T1-GE3-Footprint-1)
+Added Component: Designator=Q11_INT_PWR_PROT(SISH615ADN-T1-GE3-Footprint-1)
+Added Component: Designator=Q16(SISH615ADN-T1-GE3-Footprint-1)
+Added Component: Designator=Q18(SISH615ADN-T1-GE3-Footprint-1)
+Added Component: Designator=Q19(SISH615ADN-T1-GE3-Footprint-1)
+Added Component: Designator=Q20(SISH615ADN-T1-GE3-Footprint-1)
+Added Component: Designator=Q21(SISH615ADN-T1-GE3-Footprint-1)
+Added Component: Designator=TP1(TP06R)
+Added Component: Designator=TP2(TP06R)
+Added Component: Designator=TP3(TP06R)
+Added Component: Designator=TP4(TP06R)
+Added Component: Designator=TP5(TP06R)
+Added Component: Designator=U9(LM2902Q4T-Footprint-1)
+Added Pin To Net: NetName=INT_PWR Pin=C11-1
+Added Pin To Net: NetName=CELL_0_IN Pin=P1-1
+Added Pin To Net: NetName=CELL_1_IN Pin=P1-2
+Added Pin To Net: NetName=CELL_2_IN Pin=P1-3
+Added Pin To Net: NetName=CELL_3_IN Pin=P1-4
+Added Pin To Net: NetName=nENABLE Pin=P1-6
+Added Pin To Net: NetName=GND Pin=P1-7
+Added Pin To Net: NetName=GND Pin=P1-8
+Added Pin To Net: NetName=GND Pin=P1-9
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q1-4
+Add Pin To Net: Unknown Pin: Pin Q1-5-6-7-8
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Add Pin To Net: Unknown Pin: Pin Q2-4
+Add Pin To Net: Unknown Pin: Pin Q2-5-6-7-8
+Add Pin To Net: Unknown Pin: Pin Q3-1
+Add Pin To Net: Unknown Pin: Pin Q3-2
+Add Pin To Net: Unknown Pin: Pin Q3-3
+Add Pin To Net: Unknown Pin: Pin Q3-4
+Add Pin To Net: Unknown Pin: Pin Q3-5-6-7-8
+Add Pin To Net: Unknown Pin: Pin Q4-1
+Add Pin To Net: Unknown Pin: Pin Q4-2
+Add Pin To Net: Unknown Pin: Pin Q4-3
+Add Pin To Net: Unknown Pin: Pin Q4-4
+Add Pin To Net: Unknown Pin: Pin Q4-5-6-7-8
+Add Pin To Net: Unknown Pin: Pin Q5-1
+Add Pin To Net: Unknown Pin: Pin Q5-2
+Add Pin To Net: Unknown Pin: Pin Q5-3
+Add Pin To Net: Unknown Pin: Pin Q5-4
+Add Pin To Net: Unknown Pin: Pin Q5-5-6-7-8
+Add Pin To Net: Unknown Pin: Pin Q6-1
+Add Pin To Net: Unknown Pin: Pin Q6-2
+Add Pin To Net: Unknown Pin: Pin Q6-3
+Add Pin To Net: Unknown Pin: Pin Q6-4
+Add Pin To Net: Unknown Pin: Pin Q6-5-6-7-8
+Add Pin To Net: Unknown Pin: Pin Q10_EXT_PWR_PROT-1
+Add Pin To Net: Unknown Pin: Pin Q10_EXT_PWR_PROT-2
+Add Pin To Net: Unknown Pin: Pin Q10_EXT_PWR_PROT-3
+Add Pin To Net: Unknown Pin: Pin Q10_EXT_PWR_PROT-4
+Add Pin To Net: Unknown Pin: Pin Q10_EXT_PWR_PROT-5-6-7-8
+Add Pin To Net: Unknown Pin: Pin Q10_INT_PWR_PROT-1
+Add Pin To Net: Unknown Pin: Pin Q10_INT_PWR_PROT-2
+Add Pin To Net: Unknown Pin: Pin Q10_INT_PWR_PROT-3
+Add Pin To Net: Unknown Pin: Pin Q10_INT_PWR_PROT-4
+Add Pin To Net: Unknown Pin: Pin Q10_INT_PWR_PROT-5-6-7-8
+Add Pin To Net: Unknown Pin: Pin Q11_EXT_PWR_PROT-1
+Add Pin To Net: Unknown Pin: Pin Q11_EXT_PWR_PROT-2
+Add Pin To Net: Unknown Pin: Pin Q11_EXT_PWR_PROT-3
+Add Pin To Net: Unknown Pin: Pin Q11_EXT_PWR_PROT-4
+Add Pin To Net: Unknown Pin: Pin Q11_EXT_PWR_PROT-5-6-7-8
+Add Pin To Net: Unknown Pin: Pin Q11_INT_PWR_PROT-1
+Add Pin To Net: Unknown Pin: Pin Q11_INT_PWR_PROT-2
+Add Pin To Net: Unknown Pin: Pin Q11_INT_PWR_PROT-3
+Add Pin To Net: Unknown Pin: Pin Q11_INT_PWR_PROT-4
+Add Pin To Net: Unknown Pin: Pin Q11_INT_PWR_PROT-5-6-7-8
+Add Pin To Net: Unknown Pin: Pin Q16-1
+Add Pin To Net: Unknown Pin: Pin Q16-2
+Add Pin To Net: Unknown Pin: Pin Q16-3
+Add Pin To Net: Unknown Pin: Pin Q16-4
+Add Pin To Net: Unknown Pin: Pin Q16-5-6-7-8
+Add Pin To Net: Unknown Pin: Pin Q18-1
+Add Pin To Net: Unknown Pin: Pin Q18-2
+Add Pin To Net: Unknown Pin: Pin Q18-3
+Add Pin To Net: Unknown Pin: Pin Q18-4
+Add Pin To Net: Unknown Pin: Pin Q18-5-6-7-8
+Add Pin To Net: Unknown Pin: Pin Q19-1
+Add Pin To Net: Unknown Pin: Pin Q19-2
+Add Pin To Net: Unknown Pin: Pin Q19-3
+Add Pin To Net: Unknown Pin: Pin Q19-4
+Add Pin To Net: Unknown Pin: Pin Q19-5-6-7-8
+Add Pin To Net: Unknown Pin: Pin Q20-1
+Add Pin To Net: Unknown Pin: Pin Q20-2
+Add Pin To Net: Unknown Pin: Pin Q20-3
+Add Pin To Net: Unknown Pin: Pin Q20-4
+Add Pin To Net: Unknown Pin: Pin Q20-5-6-7-8
+Add Pin To Net: Unknown Pin: Pin Q21-1
+Add Pin To Net: Unknown Pin: Pin Q21-2
+Add Pin To Net: Unknown Pin: Pin Q21-3
+Add Pin To Net: Unknown Pin: Pin Q21-4
+Add Pin To Net: Unknown Pin: Pin Q21-5-6-7-8
+Added Pin To Net: NetName=INT_PWR Pin=R2-2
+Added Pin To Net: NetName=INT_PWR Pin=R7-1
+Added Pin To Net: NetName=INT_PWR Pin=R11-2
+Added Pin To Net: NetName=INT_PWR Pin=R12-2
+Added Pin To Net: NetName=INT_PWR Pin=R35-1
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Added Pin To Net: NetName=INT_PWR Pin=U6-3
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-4
+Add Pin To Net: Unknown Pin: Pin U9-5
+Add Pin To Net: Unknown Pin: Pin U9-6
+Add Pin To Net: Unknown Pin: Pin U9-7
+Add Pin To Net: Unknown Pin: Pin U9-8
+Add Pin To Net: Unknown Pin: Pin U9-9
+Add Pin To Net: Unknown Pin: Pin U9-11
+Add Pin To Net: Unknown Pin: Pin U9-12
+Add Pin To Net: Unknown Pin: Pin U9-13
+Add Pin To Net: Unknown Pin: Pin U9-14
+Add Pin To Net: Unknown Pin: Pin U9-15
+Add Pin To Net: Unknown Pin: Pin U9-16
+Add Net: Net with name "INT_PWR" already exists
+Add Net: Net with name "PWR_IN" already exists
+Added Member To Class: ClassName=HYDRA_V3_POWER Member=Component J3 XT30PW-M
+Added Member To Class: ClassName=HYDRA_V3_POWER Member=Component P1 53261-0471
+Add Class Member: Failed to add class member : Component Q1 SISH615ADN-T1-GE3
+Add Class Member: Failed to add class member : Component Q2 SISH615ADN-T1-GE3
+Add Class Member: Failed to add class member : Component Q3 SISH615ADN-T1-GE3
+Add Class Member: Failed to add class member : Component Q4 SISH615ADN-T1-GE3
+Add Class Member: Failed to add class member : Component Q5 SISH615ADN-T1-GE3
+Add Class Member: Failed to add class member : Component Q6 SISH615ADN-T1-GE3
+Add Class Member: Failed to add class member : Component Q10_EXT_PWR_PROT (Q10) SISH615ADN-T1-GE3
+Add Class Member: Failed to add class member : Component Q10_INT_PWR_PROT (Q10) SISH615ADN-T1-GE3
+Add Class Member: Failed to add class member : Component Q11_EXT_PWR_PROT (Q11) SISH615ADN-T1-GE3
+Add Class Member: Failed to add class member : Component Q11_INT_PWR_PROT (Q11) SISH615ADN-T1-GE3
+Add Class Member: Failed to add class member : Component Q16 SISH615ADN-T1-GE3
+Add Class Member: Failed to add class member : Component Q18 SISH615ADN-T1-GE3
+Add Class Member: Failed to add class member : Component Q19 SISH615ADN-T1-GE3
+Add Class Member: Failed to add class member : Component Q20 SISH615ADN-T1-GE3
+Add Class Member: Failed to add class member : Component Q21 SISH615ADN-T1-GE3
+Add Class Member: Failed to add class member : Component TP1 TPAD6R
+Add Class Member: Failed to add class member : Component TP2 TPAD6R
+Add Class Member: Failed to add class member : Component TP3 TPAD6R
+Add Class Member: Failed to add class member : Component TP4 TPAD6R
+Add Class Member: Failed to add class member : Component TP5 TPAD6R
+Add Class Member: Failed to add class member : Component U9 LM2902Q4T
