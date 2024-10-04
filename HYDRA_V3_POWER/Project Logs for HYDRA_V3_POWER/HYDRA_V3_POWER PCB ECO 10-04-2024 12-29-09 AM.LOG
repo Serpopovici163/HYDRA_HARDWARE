@@ -1,0 +1,75 @@
+Change Component Footprint: Designator=U1 Old Footprint=FP-TSOT-5LD-PL-1-MFG New Footprint=FP-TSOT-5LD-PL-1-MFG
+Added Component: Designator=TP1(TP06R)
+Added Component: Designator=TP2(TP06R)
+Added Component: Designator=TP3(TP06R)
+Added Component: Designator=TP4(TP06R)
+Added Component: Designator=TP5(TP06R)
+Added Component: Designator=U9(LM2902Q4T-Footprint-1)
+Added Component: Designator=U?_EXT_PWR_PROT(ALEG-EX-12_V)
+Add component (AddParameter): Name = "-3dB Bandwidth"; Value = "0.1 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.allegromicro.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.allegromicro.com/~/media/Files/Datasheets/ACS711-Datasheet.ashx?la=en"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.allegromicro.com/~/media/Files/Datasheets/ACS711-Datasheet.ashx?la=en"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IP Max"; Value = "15.5 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IP Min"; Value = "-15.5 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "12-Pin Quad Flat No-Lead, Body 3 x 3 mm, Height 0.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ACS711KEXLT-15AB-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Max"; Value = "125 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Max"; Value = "5.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Min"; Value = "3 V"; VariantName = "[No Variations]"
+Added Component: Designator=U?_INT_PWR_PROT(ALEG-EX-12_V)
+Add component (AddParameter): Name = "-3dB Bandwidth"; Value = "0.1 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.allegromicro.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.allegromicro.com/~/media/Files/Datasheets/ACS711-Datasheet.ashx?la=en"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.allegromicro.com/~/media/Files/Datasheets/ACS711-Datasheet.ashx?la=en"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IP Max"; Value = "15.5 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IP Min"; Value = "-15.5 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "12-Pin Quad Flat No-Lead, Body 3 x 3 mm, Height 0.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ACS711KEXLT-15AB-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Max"; Value = "125 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Max"; Value = "5.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Min"; Value = "3 V"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-4
+Add Pin To Net: Unknown Pin: Pin U9-5
+Add Pin To Net: Unknown Pin: Pin U9-6
+Add Pin To Net: Unknown Pin: Pin U9-7
+Add Pin To Net: Unknown Pin: Pin U9-8
+Add Pin To Net: Unknown Pin: Pin U9-9
+Add Pin To Net: Unknown Pin: Pin U9-11
+Add Pin To Net: Unknown Pin: Pin U9-12
+Add Pin To Net: Unknown Pin: Pin U9-13
+Add Pin To Net: Unknown Pin: Pin U9-14
+Add Pin To Net: Unknown Pin: Pin U9-15
+Add Pin To Net: Unknown Pin: Pin U9-16
+Add Net: Net with name "INT_PWR" already exists
+Add Net: Net with name "PWR_IN" already exists
+Add Class Member: Failed to add class member : Component TP1 TPAD6R
+Add Class Member: Failed to add class member : Component TP2 TPAD6R
+Add Class Member: Failed to add class member : Component TP3 TPAD6R
+Add Class Member: Failed to add class member : Component TP4 TPAD6R
+Add Class Member: Failed to add class member : Component TP5 TPAD6R
+Add Class Member: Failed to add class member : Component U9 LM2902Q4T
+Added Member To Class: ClassName=EXT_PWR_PROT Member=Component U?_EXT_PWR_PROT (U?) ACS711KEXLT-15AB-T
+Added Member To Class: ClassName=INT_PWR_PROT Member=Component U?_INT_PWR_PROT (U?) ACS711KEXLT-15AB-T

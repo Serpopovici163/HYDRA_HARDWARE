@@ -1,0 +1,32 @@
+Added Component: Designator=TP1(TP06R)
+Added Component: Designator=TP2(TP06R)
+Added Component: Designator=TP3(TP06R)
+Added Component: Designator=TP4(TP06R)
+Added Component: Designator=TP5(TP06R)
+Added Component: Designator=U9(LM2902Q4T-Footprint-1)
+Added Pin To Net: NetName=INT_PWR Pin=C23-1
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-4
+Add Pin To Net: Unknown Pin: Pin U9-5
+Add Pin To Net: Unknown Pin: Pin U9-6
+Add Pin To Net: Unknown Pin: Pin U9-7
+Add Pin To Net: Unknown Pin: Pin U9-8
+Add Pin To Net: Unknown Pin: Pin U9-9
+Add Pin To Net: Unknown Pin: Pin U9-11
+Add Pin To Net: Unknown Pin: Pin U9-12
+Add Pin To Net: Unknown Pin: Pin U9-13
+Add Pin To Net: Unknown Pin: Pin U9-14
+Add Pin To Net: Unknown Pin: Pin U9-15
+Add Pin To Net: Unknown Pin: Pin U9-16
+Add Class Member: Failed to add class member : Component TP1 TPAD6R
+Add Class Member: Failed to add class member : Component TP2 TPAD6R
+Add Class Member: Failed to add class member : Component TP3 TPAD6R
+Add Class Member: Failed to add class member : Component TP4 TPAD6R
+Add Class Member: Failed to add class member : Component TP5 TPAD6R
+Add Class Member: Failed to add class member : Component U9 LM2902Q4T

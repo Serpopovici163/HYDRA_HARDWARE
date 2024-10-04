@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=GND Pin=U6-1
+Removed Pin From Net: NetName=INT_PWR Pin=U6-3
+Removed Pin From Net: NetName=INT_3V3 Pin=U6-4
+Change Component Footprint: Designator=C11 Old Footprint=FP-GRM188-0_2-MFG New Footprint=FP-GRM188-0_2-IPC_A
+Change Component Footprint: Designator=C12 Old Footprint=FP-GRM188-0_2-MFG New Footprint=FP-GRM188-0_2-IPC_A
+Change Component Footprint: Designator=U6 Old Footprint=SOT-223_M New Footprint=SOT90P285X110-3N
+Change Component Comment : Designator=C11 Old Comment=GRM188R61E106MA73D New Comment=GRM188R61E106KA73D
+Change Component Comment : Designator=C12 Old Comment=GRM188R61E106MA73D New Comment=GRM188R61E106KA73D
+Change Component Comment : Designator=U6 Old Comment=LD1117AS33TR New Comment=AP7375-33SA-7
+Change Managed Component Library Link : Designator=C11 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=92C1BF7F-2281-462B-83E3-690C73E7B501 New ItemGUID=E6599DD8-2D12-4F95-944F-0C8558DC697F Old RevisionGUID=B822B13A-1F37-47CA-85FE-11B755648022 New RevisionGUID=6563CC3F-AD75-4E40-B1A5-877212FA2720
+Change Managed Component Library Link : Designator=C12 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=92C1BF7F-2281-462B-83E3-690C73E7B501 New ItemGUID=E6599DD8-2D12-4F95-944F-0C8558DC697F Old RevisionGUID=B822B13A-1F37-47CA-85FE-11B755648022 New RevisionGUID=6563CC3F-AD75-4E40-B1A5-877212FA2720
+Change Managed Component Library Link : Designator=U6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=275DD9A0-BDD9-47D7-8C38-F690E90B05B9 Old ItemGUID=2F3CF427-3092-4006-A831-4C76435D5B48 New ItemGUID=e36d447f-e401-4a81-99e5-1c7ca84f4af4 Old RevisionGUID=5F05CDA5-0F26-4345-B61B-9788241295BE New RevisionGUID=45974793-54f7-4aae-8d4e-0c58e74d88c1
+Change component parameters: Designator = "C11" ("C11"); Footprint = "FP-GRM188-0_2-MFG"; UniqueID = "\YBDOLJGV\NATSAHWC" ("\YBDOLJGV\NATSAHWC")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "FP-GRM188-0_2-MFG"; UniqueID = "\YBDOLJGV\SQXLXFGC" ("\YBDOLJGV\SQXLXFGC")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6" ("U6"); Footprint = "SOT-223_M"; UniqueID = "\YBDOLJGV\ZAWBDAYR" ("\YBDOLJGV\ZAWBDAYR")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP1(TP06R)
+Added Component: Designator=TP2(TP06R)
+Added Component: Designator=TP3(TP06R)
+Added Component: Designator=TP4(TP06R)
+Added Component: Designator=TP5(TP06R)
+Added Component: Designator=U9(LM2902Q4T-Footprint-1)
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Added Pin To Net: NetName=INT_PWR Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-3
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-4
+Add Pin To Net: Unknown Pin: Pin U9-5
+Add Pin To Net: Unknown Pin: Pin U9-6
+Add Pin To Net: Unknown Pin: Pin U9-7
+Add Pin To Net: Unknown Pin: Pin U9-8
+Add Pin To Net: Unknown Pin: Pin U9-9
+Add Pin To Net: Unknown Pin: Pin U9-11
+Add Pin To Net: Unknown Pin: Pin U9-12
+Add Pin To Net: Unknown Pin: Pin U9-13
+Add Pin To Net: Unknown Pin: Pin U9-14
+Add Pin To Net: Unknown Pin: Pin U9-15
+Add Pin To Net: Unknown Pin: Pin U9-16
+Add Net: Net with name "INT_PWR" already exists
+Add Net: Net with name "PWR_IN" already exists
+Add Class Member: Failed to add class member : Component TP1 TPAD6R
+Add Class Member: Failed to add class member : Component TP2 TPAD6R
+Add Class Member: Failed to add class member : Component TP3 TPAD6R
+Add Class Member: Failed to add class member : Component TP4 TPAD6R
+Add Class Member: Failed to add class member : Component TP5 TPAD6R
+Add Class Member: Failed to add class member : Component U9 LM2902Q4T

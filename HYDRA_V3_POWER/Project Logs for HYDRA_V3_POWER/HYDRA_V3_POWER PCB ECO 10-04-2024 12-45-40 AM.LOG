@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=NetD2_1 Pin=D2-2
+Removed Pin From Net: NetName=NetD2_1 Pin=Q11-5-6-7-8
+Change Component Footprint: Designator=D2 Old Footprint=FP-95570-MFG New Footprint=FP-SOD128-MFG
+Change Component Comment : Designator=D2 Old Comment=SS5P10-M3/86A New Comment=PMEG3030EP,115
+Change Managed Component Library Link : Designator=D2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C0A5378F-B1FC-495C-B235-C864DF299893 New ItemGUID=EE9146EA-128E-4F00-AA96-8B0910D2BECC Old RevisionGUID=4A0065D9-D749-4141-8F04-F36BCB092A76 New RevisionGUID=5C2DB06A-B4CF-4535-800E-0D4AA11EF47D
+Change component parameters: Designator = "D2" ("D2"); Footprint = "FP-95570-MFG"; UniqueID = "\JLJKIGOW\WQRUGNNX" ("\JLJKIGOW\WQRUGNNX")
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(TP06R)
+Added Component: Designator=TP2(TP06R)
+Added Component: Designator=TP3(TP06R)
+Added Component: Designator=TP4(TP06R)
+Added Component: Designator=TP5(TP06R)
+Added Component: Designator=U9(LM2902Q4T-Footprint-1)
+Added Pin To Net: NetName=NetD2_1 Pin=F1-2
+Added Pin To Net: NetName=NetD2_1 Pin=Q16-5-6-7-8
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-4
+Add Pin To Net: Unknown Pin: Pin U9-5
+Add Pin To Net: Unknown Pin: Pin U9-6
+Add Pin To Net: Unknown Pin: Pin U9-7
+Add Pin To Net: Unknown Pin: Pin U9-8
+Add Pin To Net: Unknown Pin: Pin U9-9
+Add Pin To Net: Unknown Pin: Pin U9-11
+Add Pin To Net: Unknown Pin: Pin U9-12
+Add Pin To Net: Unknown Pin: Pin U9-13
+Add Pin To Net: Unknown Pin: Pin U9-14
+Add Pin To Net: Unknown Pin: Pin U9-15
+Add Pin To Net: Unknown Pin: Pin U9-16
+Add Net: Net with name "INT_PWR" already exists
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=Q11-5-6-7-8
+Added Net: Name=NetD2_2
+Add Net: Net with name "PWR_IN" already exists
+Add Class Member: Failed to add class member : Component TP1 TPAD6R
+Add Class Member: Failed to add class member : Component TP2 TPAD6R
+Add Class Member: Failed to add class member : Component TP3 TPAD6R
+Add Class Member: Failed to add class member : Component TP4 TPAD6R
+Add Class Member: Failed to add class member : Component TP5 TPAD6R
+Added Member To Class: ClassName=EXT_PWR_PROT Member=Component U5_EXT_PWR_PROT (U5) ACS711KEXLT-15AB-T
+Added Member To Class: ClassName=INT_PWR_PROT Member=Component U5_INT_PWR_PROT (U5) ACS711KEXLT-15AB-T
+Add Class Member: Failed to add class member : Component U9 LM2902Q4T
