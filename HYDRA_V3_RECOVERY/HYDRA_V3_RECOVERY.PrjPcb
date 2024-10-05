@@ -103,23 +103,6 @@ GenerateClassCluster=0
 DocumentUniqueId=RXWGDSYR
 
 [Document4]
-DocumentPath=SAME51_PINOUT.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QZOISYBH
-
-[Document5]
 DocumentPath=EJECTION_CIRCUIT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -136,7 +119,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HLAVCSWZ
 
-[Document6]
+[Document5]
 DocumentPath=SENSOR_BANK.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -153,7 +136,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PUNURJBT
 
-[Document7]
+[Document6]
 DocumentPath=SAFETY_SWITCH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -170,7 +153,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HHVLUYDP
 
-[Document8]
+[Document7]
 DocumentPath=DRILL_HYDRA_V3_RECOVERY.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -187,7 +170,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=HYDRA_V3_RECOVERY.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -204,14 +187,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document9]
 DocumentPath=STM32G473CET6_PINOUT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
