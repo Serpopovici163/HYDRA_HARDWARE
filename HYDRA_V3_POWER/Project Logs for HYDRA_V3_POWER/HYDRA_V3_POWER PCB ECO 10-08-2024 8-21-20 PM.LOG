@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=GND Pin=P9-7
+Removed Pin From Net: NetName=GND Pin=P9-8
+Removed Pin From Net: NetName=GND Pin=P9-9
+Removed Member From Class: ClassName=HYDRA_V3_POWER Member=P9
+Change Component Footprint: Designator=P1 Old Footprint=53261-0971-Footprint-1 New Footprint=53261-0971-Footprint-1
+Change Managed Component Library Link : Designator=P1 Old VaultGUID=275DD9A0-BDD9-47D7-8C38-F690E90B05B9 New VaultGUID=275DD9A0-BDD9-47D7-8C38-F690E90B05B9 Old ItemGUID=9b468b5e-6c7a-45b7-a311-9323216e8ee5 New ItemGUID=9b468b5e-6c7a-45b7-a311-9323216e8ee5 Old RevisionGUID=f238aa20-60e1-4206-80c4-da75e288e409 New RevisionGUID=6cc79ffe-d6f8-444f-9f7e-09effae6c16c
+Added Component: Designator=TP1(TP06R)
+Added Component: Designator=TP2(TP06R)
+Added Component: Designator=TP3(TP06R)
+Added Component: Designator=TP4(TP06R)
+Added Component: Designator=TP5(TP06R)
+Added Component: Designator=U9(LM2902Q4T-Footprint-1)
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-4
+Add Pin To Net: Unknown Pin: Pin U9-5
+Add Pin To Net: Unknown Pin: Pin U9-6
+Add Pin To Net: Unknown Pin: Pin U9-7
+Add Pin To Net: Unknown Pin: Pin U9-8
+Add Pin To Net: Unknown Pin: Pin U9-9
+Add Pin To Net: Unknown Pin: Pin U9-11
+Add Pin To Net: Unknown Pin: Pin U9-12
+Add Pin To Net: Unknown Pin: Pin U9-13
+Add Pin To Net: Unknown Pin: Pin U9-14
+Add Pin To Net: Unknown Pin: Pin U9-15
+Add Pin To Net: Unknown Pin: Pin U9-16
+Added Member To Class: ClassName=HYDRA_V3_POWER Member=Component P1 53261-0971
+Add Class Member: Failed to add class member : Component TP1 TPAD6R
+Add Class Member: Failed to add class member : Component TP2 TPAD6R
+Add Class Member: Failed to add class member : Component TP3 TPAD6R
+Add Class Member: Failed to add class member : Component TP4 TPAD6R
+Add Class Member: Failed to add class member : Component TP5 TPAD6R
+Add Class Member: Failed to add class member : Component U9 LM2902Q4T
