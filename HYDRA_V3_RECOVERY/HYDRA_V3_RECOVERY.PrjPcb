@@ -225,6 +225,10 @@ DocumentUniqueId=PBRGMWKR
 DocumentPath=Project Outputs for HYDRA_V3_RECOVERY\Design Rule Check - HYDRA_V3_RECOVERY.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for HYDRA_V3_RECOVERY\Design Rule Check - HYDRA_V3_RECOVERY_V2.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
