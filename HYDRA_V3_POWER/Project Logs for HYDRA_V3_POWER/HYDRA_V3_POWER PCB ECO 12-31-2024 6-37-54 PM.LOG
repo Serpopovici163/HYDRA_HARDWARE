@@ -1,0 +1,21 @@
+Added Member To Class: ClassName=LS_0 Member=Component C42_LS_0 (C42) 3.3n
+Added Member To Class: ClassName=LS_1 Member=Component C42_LS_1 (C42) 3.3n
+Added Member To Class: ClassName=LS_0 Member=Component R96_LS_0 (R96) tbd
+Added Member To Class: ClassName=LS_1 Member=Component R96_LS_1 (R96) tbd
+Added Member To Class: ClassName=LS_0 Member=Component R97_LS_0 (R97) tbd
+Added Member To Class: ClassName=LS_1 Member=Component R97_LS_1 (R97) tbd
+Added Member To Class: ClassName=LS_0 Member=Component R98_LS_0 (R98) tbd
+Added Member To Class: ClassName=LS_1 Member=Component R98_LS_1 (R98) tbd
+Added Member To Class: ClassName=LS_0 Member=Component R99_LS_0 (R99) tbd
+Added Member To Class: ClassName=LS_1 Member=Component R99_LS_1 (R99) tbd
+Added Member To Class: ClassName=LS_0 Member=Component R100_LS_0 (R100) tbd
+Added Member To Class: ClassName=LS_1 Member=Component R100_LS_1 (R100) tbd
+Added Member To Class: ClassName=LS_0 Member=Component R101_LS_0 (R101) tbd
+Added Member To Class: ClassName=LS_1 Member=Component R101_LS_1 (R101) tbd
+Added Member To Class: ClassName=LS_0 Member=Component R102_LS_0 (R102) 10k
+Added Member To Class: ClassName=LS_1 Member=Component R102_LS_1 (R102) 10k
+Added Member To Class: ClassName=LS_0 Member=Component U13_LS_0 (U13) LM73100RPWR
+Added Member To Class: ClassName=LS_1 Member=Component U13_LS_1 (U13) LM73100RPWR
+Added Room: Name=LS_0
+Added Room: Name=LS_1
+Added Room: Name=LS_2
