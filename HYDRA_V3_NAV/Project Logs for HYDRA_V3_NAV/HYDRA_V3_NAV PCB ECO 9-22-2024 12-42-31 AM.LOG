@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=TP4-1
-Removed Pin From Net: NetName=GND Pin=TP8-1
-Removed Pin From Net: NetName=GND Pin=TP14-1
-Removed Pin From Net: NetName=GND Pin=TP20-1
-Removed Member From Class: ClassName=MCU_0 Member=TP3
-Removed Member From Class: ClassName=MCU_0 Member=TP4
-Removed Member From Class: ClassName=MCU_0 Member=TP8
-Removed Member From Class: ClassName=PWR_PROT_0 Member=TP14
-Removed Member From Class: ClassName=PWR_PROT_1 Member=TP20

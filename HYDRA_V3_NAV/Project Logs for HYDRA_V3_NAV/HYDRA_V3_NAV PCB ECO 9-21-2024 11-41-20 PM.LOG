@@ -1,7 +1,0 @@
-Added Pin To Net: NetName=SD_CLK Pin=U1-52
-Added Pin To Net: NetName=SD_DAT0 Pin=U1-53
-Added Pin To Net: NetName=SD_CMD Pin=U1-54
-Added Pin To Net: NetName=SD_DAT0 Pin=U6-6
-Added Pin To Net: NetName=SD_CLK Pin=U6-8
-Added Pin To Net: NetName=SD_CMD Pin=U6-11
-Change Net Name : Old Net Name=SPI2_nCS New Net Name=CAN_nCS

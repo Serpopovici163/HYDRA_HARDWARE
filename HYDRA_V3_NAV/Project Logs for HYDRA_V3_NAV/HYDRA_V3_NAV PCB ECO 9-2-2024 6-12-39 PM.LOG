@@ -1,4 +1,0 @@
-Added Pin To Net: NetName=CUTOFF_MOSFET Pin=TP16-1
-Added Pin To Net: NetName=V_SENSE Pin=TP17-1
-Added Pin To Net: NetName=I_SENSE Pin=TP18-1
-Added Pin To Net: NetName=ACT_PWR_EN Pin=TP19-1

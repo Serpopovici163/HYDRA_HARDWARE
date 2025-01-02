@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=PRE_IMU1_SCLK Pin=U16-2
-Removed Pin From Net: NetName=PRE_IMU1_MOSI Pin=U16-3
-Removed Pin From Net: NetName=PRE_IMU1_MISO Pin=U16-4
-Removed Pin From Net: NetName=PRE_IMU1_nCS Pin=U16-5
-Added Pin To Net: NetName=PRE_IMU1_MISO Pin=U16-2
-Added Pin To Net: NetName=PRE_IMU1_nCS Pin=U16-3
-Added Pin To Net: NetName=PRE_IMU1_SCLK Pin=U16-4
-Added Pin To Net: NetName=PRE_IMU1_MOSI Pin=U16-5

@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=PRE_SHUNT Pin=R63-2
-Added Pin To Net: NetName=POST_SHUNT Pin=R63-2
-Add Net: Net with name "5V_OC_TP" already exists
