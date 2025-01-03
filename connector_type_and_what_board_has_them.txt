@@ -1,0 +1,8 @@
+Picoblade connectors (all connector types should only be used for one pinout to avoid issues from being able to connect the wrong things together)
+
+2p --> V4 REC (sfty sw tho)
+3p --> V4 REC (cam?)
+4p --> V4 REC
+5p --> V4 REC
+8p --> V4 NAV
+9p --> V4 PWR
