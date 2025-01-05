@@ -1,8 +1,9 @@
 Picoblade connectors (all connector types should only be used for one pinout to avoid issues from being able to connect the wrong things together)
 
-2p --> V4 REC (sfty sw tho)
-3p --> V4 REC (cam?)
-4p --> V4 REC
-5p --> V4 REC
-8p --> V4 NAV
-9p --> V4 PWR
+2p --> V4 REC (SFTY SW)
+3p --> V4 REC (CAM)
+4p --> V4 LNK (AUX RADIO)
+5p --> V4 LNK (AUX BATTERY)
+7p --> V4 REC (PYRO)
+8p --> V4 NAV (ACTUATION)
+9p --> V4 PWR (CELL SENSE + EMAG + SHDN SW)
