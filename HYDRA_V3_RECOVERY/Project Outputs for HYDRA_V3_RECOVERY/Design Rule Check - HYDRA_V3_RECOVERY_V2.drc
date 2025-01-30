@@ -1,0 +1,78 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\se097192\Documents\0_PERSONAL\HYDRA\HYDRA_V3_RECOVERY\HYDRA_V3_RECOVERY_V2.PcbDoc
+Date     : 10/20/2024
+Time     : 6:44:38 PM
+
+Processing Rule : Clearance Constraint (Gap=0.102mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad J1-(-20mm,7.305mm) on Multi-Layer And Pad J3-(-20mm,7.305mm) on Multi-Layer Location : [X = 80mm][Y = 107.305mm]
+   Violation between Short-Circuit Constraint: Between Pad J1-(-20mm,-7.305mm) on Multi-Layer And Pad J3-(-20mm,-7.305mm) on Multi-Layer Location : [X = 80mm][Y = 92.695mm]
+   Violation between Short-Circuit Constraint: Between Pad J2-(20mm,7.305mm) on Multi-Layer And Pad J4-(20mm,7.305mm) on Multi-Layer Location : [X = 120mm][Y = 107.305mm]
+   Violation between Short-Circuit Constraint: Between Pad J2-(20mm,-7.305mm) on Multi-Layer And Pad J4-(20mm,-7.305mm) on Multi-Layer Location : [X = 120mm][Y = 92.695mm]
+Rule Violations :4
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.102mm) (Max=1816.048mm) (Preferred=0.102mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (InPadClass('PowerPads'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.3mm) (Conductor Width=0.102mm) (Air Gap=0.102mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.076mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.25mm) Between Pad J1-(-20mm,7.305mm) on Multi-Layer And Pad J3-(-20mm,7.305mm) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.25mm) Between Pad J1-(-20mm,-7.305mm) on Multi-Layer And Pad J3-(-20mm,-7.305mm) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.25mm) Between Pad J2-(20mm,7.305mm) on Multi-Layer And Pad J4-(20mm,7.305mm) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.25mm) Between Pad J2-(20mm,-7.305mm) on Multi-Layer And Pad J4-(20mm,-7.305mm) on Multi-Layer Pad/Via Touching Holes
+Rule Violations :4
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.102mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.063mm < 0.102mm) Between Arc (-13.682mm,2.948mm) on Top Overlay And Pad R10-2(-14.5mm,2.175mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.063mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Arc (6.55mm,21.8mm) on Bottom Overlay And Pad R8-2(6.2mm,21.85mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+Rule Violations :2
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (0.058mm < 0.2mm) Between Board Edge And Pad P1-MP2(15.175mm,-17.45mm) on Top Layer 
+   Violation between Board Outline Clearance(Outline Edge): (0.138mm < 0.2mm) Between Board Edge And Pad P2-MP1(-15.05mm,-17.45mm) on Top Layer 
+   Violation between Board Outline Clearance(Outline Edge): (0.182mm < 0.2mm) Between Board Edge And Text "DBG" (-22.29mm,10.53mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.113mm < 0.2mm) Between Board Edge And Text "DROGUE" (17.65mm,10.65mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.175mm < 0.2mm) Between Board Edge And Text "MAIN" (17.35mm,13.65mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.004mm < 0.2mm) Between Board Edge And Text "MCU" (15.65mm,16.65mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "PWR" (12.15mm,19.65mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.075mm < 0.2mm) Between Board Edge And Text "RST" (-17.2mm,17mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.021mm < 0.2mm) Between Board Edge And Text "WAKE" (8.65mm,21.25mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (-15.7mm,-19.55mm)(-15.7mm,-19.35mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (-15.7mm,-19.55mm)(-4.3mm,-19.55mm) on Top Overlay 
+Rule Violations :11
+
+Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 21
+Waived Violations : 0
+Time Elapsed        : 00:00:01
