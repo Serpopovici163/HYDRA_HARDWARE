@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=BARO0_nCS Pin=U1-3
+Added Pin To Net: NetName=BARO1_nCS Pin=U1-3
