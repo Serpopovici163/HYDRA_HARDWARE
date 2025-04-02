@@ -1,0 +1,152 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\se097192\Documents\0_PERSONAL\HYDRA\HYDRA_V4_LINK\HYDRA_V4_LINK.PcbDoc
+Date     : 04/01/2025
+Time     : 5:23:19 PM
+
+WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
+   Polygon named: NONET_L01_P027 In net GND On TOP SIG
+   Polygon named: NONET_L01_P022 In net PRE_5V On TOP SIG
+   Polygon named: NONET_L01_P024 In net PRE_3V3 On TOP SIG
+   Polygon named: NONET_L01_P030 On TOP SIG
+   Polygon named: NONET_L02_P012 In net GND On PWR + INT SIG
+   Polygon named: NONET_L02_P011 In net PYRO_PWR On PWR + INT SIG
+   Polygon named: NONET_L02_P010 In net PRE_3V3 On PWR + INT SIG
+   Polygon named: NONET_L02_P009 In net PRE_5V On PWR + INT SIG
+   Polygon named: NONET_L02_P008 In net VCC On PWR + INT SIG
+   Polygon named: NONET_L04_P025 In net GND On BOTTOM SIG
+   Polygon named: NONET_L04_P028 On BOTTOM SIG
+   Polygon named: NONET_L03_P015 In net GND On GND
+   Polygon named: NONET_L01_P027 In net GND On TOP SIG
+   Polygon named: NONET_L01_P022 In net PRE_5V On TOP SIG
+   Polygon named: NONET_L01_P024 In net PRE_3V3 On TOP SIG
+   Polygon named: NONET_L01_P030 On TOP SIG
+   Polygon named: NONET_L04_P025 In net GND On BOTTOM SIG
+   Polygon named: NONET_L04_P028 On BOTTOM SIG
+
+Processing Rule : Clearance Constraint (Gap=0.102mm) (All),(All)
+   Violation between Clearance Constraint: (0.248mm < 0.25mm) Between Hole of Via (12.25mm,17.75mm) from TOP SIG to BOTTOM SIG And Track (11.502mm,17.202mm)(12.416mm,17.202mm) on TOP SIG 
+   Violation between Clearance Constraint: (0.095mm < 0.127mm) Between Track (14.698mm,15.602mm)(15.402mm,14.898mm) on TOP SIG And Via (15.25mm,15.75mm) from TOP SIG to BOTTOM SIG 
+   Violation between Clearance Constraint: (0.042mm < 0.127mm) Between Track (16.25mm,15mm)(19.25mm,12mm) on PWR + INT SIG And Via (16.35mm,14.275mm) from TOP SIG to BOTTOM SIG 
+   Violation between Clearance Constraint: (0.245mm < 0.25mm) Between Hole of Via (-18.25mm,13.75mm) from TOP SIG to BOTTOM SIG And Track (-17.961mm,13.339mm)(-17.5mm,13.8mm) on PWR + INT SIG 
+   Violation between Clearance Constraint: (0.122mm < 0.127mm) Between Track (-22.559mm,-2.477mm)(-20.298mm,-2.477mm) on BOTTOM SIG And Via (-21.365mm,-1.905mm) from TOP SIG to BOTTOM SIG 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Track (6.5mm,23.75mm)(8.5mm,21.75mm) on PWR + INT SIG And Via (8.1mm,21.8mm) from TOP SIG to BOTTOM SIG 
+   Violation between Clearance Constraint: (0.053mm < 0.127mm) Between Track (8.5mm,19.35mm)(8.5mm,21.75mm) on PWR + INT SIG And Via (8.1mm,21.8mm) from TOP SIG to BOTTOM SIG 
+Rule Violations :7
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad J1-(-20mm,7.305mm) on Multi-Layer And Pad J3-(-20mm,7.305mm) on Multi-Layer Location : [X = 80mm][Y = 107.305mm]
+   Violation between Short-Circuit Constraint: Between Pad J1-(-20mm,-7.305mm) on Multi-Layer And Pad J3-(-20mm,-7.305mm) on Multi-Layer Location : [X = 80mm][Y = 92.695mm]
+   Violation between Short-Circuit Constraint: Between Pad J2-(20mm,7.305mm) on Multi-Layer And Pad J4-(20mm,7.305mm) on Multi-Layer Location : [X = 120mm][Y = 107.305mm]
+   Violation between Short-Circuit Constraint: Between Pad J2-(20mm,-7.305mm) on Multi-Layer And Pad J4-(20mm,-7.305mm) on Multi-Layer Location : [X = 120mm][Y = 92.695mm]
+   Violation between Short-Circuit Constraint: Between Track (6.5mm,23.75mm)(8.5mm,21.75mm) on PWR + INT SIG And Via (8.1mm,21.8mm) from TOP SIG to BOTTOM SIG Location : [X = 108.206mm][Y = 121.906mm]
+Rule Violations :5
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+   Violation between Modified Polygon: Polygon Shelved  (NONET_L01_P022) on TOP SIG 
+   Violation between Modified Polygon: Polygon Shelved  (NONET_L01_P024) on TOP SIG 
+   Violation between Modified Polygon: Polygon Shelved  (NONET_L01_P027) on TOP SIG 
+   Violation between Modified Polygon: Polygon Shelved  (NONET_L01_P030) on TOP SIG 
+   Violation between Modified Polygon: Polygon Shelved  (NONET_L02_P008) on PWR + INT SIG 
+   Violation between Modified Polygon: Polygon Shelved  (NONET_L02_P009) on PWR + INT SIG 
+   Violation between Modified Polygon: Polygon Shelved  (NONET_L02_P010) on PWR + INT SIG 
+   Violation between Modified Polygon: Polygon Shelved  (NONET_L02_P011) on PWR + INT SIG 
+   Violation between Modified Polygon: Polygon Shelved  (NONET_L02_P012) on PWR + INT SIG 
+   Violation between Modified Polygon: Polygon Shelved  (NONET_L03_P015) on GND 
+   Violation between Modified Polygon: Polygon Shelved  (NONET_L04_P025) on BOTTOM SIG 
+   Violation between Modified Polygon: Polygon Shelved  (NONET_L04_P028) on BOTTOM SIG 
+Rule Violations :12
+
+Processing Rule : Width Constraint (Min=0.264mm) (Max=0.355mm) (Preferred=0.355mm) (InNetClass('50SINGLE'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.102mm) (Max=1816.048mm) (Preferred=0.102mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.3mm) (Conductor Width=0.102mm) (Air Gap=0.102mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (InPadClass('PowerPads'))
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.076mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.25mm) Between Pad J1-(-20mm,7.305mm) on Multi-Layer And Pad J3-(-20mm,7.305mm) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.25mm) Between Pad J1-(-20mm,-7.305mm) on Multi-Layer And Pad J3-(-20mm,-7.305mm) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.25mm) Between Pad J2-(20mm,7.305mm) on Multi-Layer And Pad J4-(20mm,7.305mm) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.25mm) Between Pad J2-(20mm,-7.305mm) on Multi-Layer And Pad J4-(20mm,-7.305mm) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (0.225mm < 0.25mm) Between Via (-14.25mm,7.539mm) from TOP SIG to BOTTOM SIG And Via (-14mm,8mm) from TOP SIG to BOTTOM SIG 
+Rule Violations :5
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.102mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Arc (11.875mm,-13.225mm) on Bottom Overlay And Pad R58-2(11.5mm,-12.65mm) on BOTTOM SIG [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.032mm < 0.102mm) Between Arc (15.675mm,-2.225mm) on Bottom Overlay And Pad L2-1(14.25mm,-3.108mm) on BOTTOM SIG [Bottom Overlay] to [Bottom Solder] clearance [0.032mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Arc (-5.05mm,5.55mm) on Bottom Overlay And Pad R34-1(-4.65mm,6mm) on BOTTOM SIG [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Arc (5.318mm,-8.948mm) on Bottom Overlay And Pad C14-2(5.25mm,-8.729mm) on BOTTOM SIG [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.06mm < 0.102mm) Between Arc (6.95mm,-1.55mm) on Bottom Overlay And Pad U3-1(7.2mm,-1.95mm) on BOTTOM SIG [Bottom Overlay] to [Bottom Solder] clearance [0.06mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.039mm < 0.102mm) Between Pad C23-2(12mm,3.5mm) on BOTTOM SIG And Track (9.914mm,2.736mm)(11.586mm,2.736mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.039mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.078mm < 0.102mm) Between Pad C32-2(9.75mm,10.979mm) on BOTTOM SIG And Track (9.914mm,11.514mm)(11.586mm,11.514mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.078mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.078mm < 0.102mm) Between Pad C34-2(11.25mm,10.979mm) on BOTTOM SIG And Track (9.914mm,11.514mm)(11.586mm,11.514mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.078mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad L2-2(14.25mm,-6.892mm) on BOTTOM SIG And Track (13.047mm,-7.872mm)(15.953mm,-7.872mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.086mm < 0.102mm) Between Pad P1-S1(3.325mm,-17.4mm) on TOP SIG And Track (2.875mm,-15.75mm)(2.875mm,-15.3mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.086mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.086mm < 0.102mm) Between Pad P1-S2(14.675mm,-17.4mm) on TOP SIG And Track (15.125mm,-15.75mm)(15.125mm,-15.3mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.086mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad R32-2(-9.25mm,10.4mm) on BOTTOM SIG And Track (-8.736mm,10.164mm)(-8.736mm,11.836mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad U15-2(-18.825mm,-13.8mm) on TOP SIG And Text "LoRa
+ANT" (-19.337mm,-16mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad U15-3(-18.175mm,-13.8mm) on TOP SIG And Text "LoRa
+ANT" (-19.337mm,-16mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad U15-4(-17.525mm,-13.8mm) on TOP SIG And Text "LoRa
+ANT" (-19.337mm,-16mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+Rule Violations :15
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Via (-18mm,7mm) from TOP SIG to BOTTOM SIG 
+   Violation between Net Antennae: Via (-5.75mm,5.75mm) from TOP SIG to BOTTOM SIG 
+   Violation between Net Antennae: Via (-8mm,-15.2mm) from TOP SIG to BOTTOM SIG 
+Rule Violations :3
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Arc (-14mm,-17.076mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Arc (-67.2mm,-51.45mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Pad Q5-1(-67.2mm,-52.35mm) on TOP SIG 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Pad Q5-2(-67.2mm,-53.65mm) on TOP SIG 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Pad Q5-3(-65.3mm,-53mm) on TOP SIG 
+   Violation between Board Outline Clearance(Outline Edge): (0.15mm < 0.2mm) Between Board Edge And Pad SD1-12(-15.6mm,-15.95mm) on BOTTOM SIG 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "AUX
+RAD" (-1.337mm,-19.5mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "ETH DECOUPLING CAPS ARE WIRED WRONG BUT PROB OK" (59.354mm,34.554mm) on TOP SIG 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "LoRa
+ANT" (-19.337mm,-16mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.13mm < 0.2mm) Between Board Edge And Text "PWR" (11.95mm,19.65mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "PWR" (19.424mm,-17.25mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "Q5" (-67.533mm,-50.447mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.049mm < 0.2mm) Between Board Edge And Text "RST" (-17.149mm,17.15mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.066mm < 0.2mm) Between Board Edge And Track (0.025mm,-19.7mm)(14.975mm,-19.7mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.066mm < 0.2mm) Between Board Edge And Track (14.975mm,-19.7mm)(14.975mm,-19.375mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.096mm < 0.2mm) Between Board Edge And Track (3.9mm,23.825mm)(7.1mm,23.825mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (-65.575mm,-52.25mm)(-65.575mm,-51.9mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (-65.575mm,-54.1mm)(-65.575mm,-53.75mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (-66.375mm,-51.9mm)(-65.575mm,-51.9mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (-66.375mm,-54.1mm)(-65.575mm,-54.1mm) on Top Overlay 
+Rule Violations :20
+
+Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 67
+Waived Violations : 0
+Time Elapsed        : 00:00:01
