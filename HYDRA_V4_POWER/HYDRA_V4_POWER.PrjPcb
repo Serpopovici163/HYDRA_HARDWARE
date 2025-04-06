@@ -186,23 +186,6 @@ GenerateClassCluster=0
 DocumentUniqueId=QXQACUKP
 
 [Document9]
-DocumentPath=STM32G473CET6_PINOUT.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=12
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GPOALQNJ
-
-[Document10]
 DocumentPath=LM7310.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FKEBDWIJ
 
-[Document11]
+[Document10]
 DocumentPath=TCAN1146_PINOUT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JQCRLSJW
 
-[Document12]
+[Document11]
 DocumentPath=TCAN330_PINOUT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LITJWWLI
 
-[Document13]
+[Document12]
 DocumentPath=STM32G473RET6_PINOUT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
