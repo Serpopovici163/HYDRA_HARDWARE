@@ -257,6 +257,10 @@ DocumentUniqueId=NFLTUHYA
 DocumentPath=Project Outputs for HYDRA_V3_POWER\Design Rule Check - HYDRA_V4_POWER.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for HYDRA_V4_POWER\Design Rule Check - HYDRA_V4_POWER.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
