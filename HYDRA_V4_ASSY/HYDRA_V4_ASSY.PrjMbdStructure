@@ -1,0 +1,10 @@
+Record=DiagramHierarchy|SourceDocument=HYDRA_V4_0_STACK.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\HYDRA_V4_LINK\HYDRA_V4_LINK.PrjPcb
+Record=SubProject|SourceDocument=HYDRA_V4_0_STACK.MbsDoc|ProjectPath=..\HYDRA_V4_LINK\HYDRA_V4_LINK.PrjPcb
+Record=DiagramHierarchy|SourceDocument=HYDRA_V4_0_STACK.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\HYDRA_V4_NAV\HYDRA_V4_NAV.PrjPcb
+Record=SubProject|SourceDocument=HYDRA_V4_0_STACK.MbsDoc|ProjectPath=..\HYDRA_V4_NAV\HYDRA_V4_NAV.PrjPcb
+Record=DiagramHierarchy|SourceDocument=HYDRA_V4_0_STACK.MbsDoc|Kind=Multi-board Schematic Module|Designator=5|Source=..\HYDRA_V4_POWER\HYDRA_V4_POWER.PrjPcb
+Record=SubProject|SourceDocument=HYDRA_V4_0_STACK.MbsDoc|ProjectPath=..\HYDRA_V4_POWER\HYDRA_V4_POWER.PrjPcb
+Record=DiagramHierarchy|SourceDocument=HYDRA_V4_0_STACK.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\HYDRA_V4_POWER\HYDRA_V4_POWER.PrjPcb
+Record=SubProject|SourceDocument=HYDRA_V4_0_STACK.MbsDoc|ProjectPath=..\HYDRA_V4_POWER\HYDRA_V4_POWER.PrjPcb
+Record=DiagramHierarchy|SourceDocument=HYDRA_V4_0_STACK.MbsDoc|Kind=Multi-board Schematic Module|Designator=4|Source=..\HYDRA_V4_RECOVERY\HYDRA_V4_RECOVERY.PrjPcb
+Record=SubProject|SourceDocument=HYDRA_V4_0_STACK.MbsDoc|ProjectPath=..\HYDRA_V4_RECOVERY\HYDRA_V4_RECOVERY.PrjPcb
