@@ -1,10 +1,10 @@
 Picoblade connectors (all connector types should only be used for one pinout to avoid issues from being able to connect the wrong things together)
 
-2p --> V4 NAV (ACT BUS) AND V4 POWER/RECOVERY (SFTY SWITCH)
-3p --> V4 RECOVERY (CAM)
-4p --> V4 POWER (EMAG)
-5p --> V4 POWER (CELL SENSE)
+2p --> V4 NAV (ACT BUS) AND V4 RECOVERY (SFTY SWITCH)
+3p -->
+4p --> V4 POWER (CELL SENSE)
+5p --> V4 POWER (EMAG+INH SW)
 6p --> V4 RECOVERY (PYRO)
-7p --> V4 LINK (AUX RADIO)
-8p --> V4 LINK (AUX BATT + ETH)
+7p -->* V4 LINK (AUX RADIO)
+8p -->* V4 LINK (AUX BATT + ETH)
 9p --> 
