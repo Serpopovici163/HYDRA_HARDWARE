@@ -1,79 +1,20 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Trololololol\Documents\Projects\HYDRA\HYDRA_V4_NAV\HYDRA_V4_NAV.PcbDoc
-Date     : 2/17/2025
-Time     : 2:27:36 AM
+Date     : 4/19/2025
+Time     : 9:08:48 PM
 
 Processing Rule : Clearance Constraint (Gap=0.102mm) (All),(All)
-   Violation between Clearance Constraint: (Collision < 0.102mm) Between Pad C2-1(-19.479mm,-11.5mm) on BOTTOM SIG And Polygon Region (52 hole(s)) BOTTOM SIG 
-   Violation between Clearance Constraint: (Collision < 0.102mm) Between Polygon Region (52 hole(s)) BOTTOM SIG And Track (-20.75mm,-11.5mm)(-19.479mm,-11.5mm) on BOTTOM SIG 
-   Violation between Clearance Constraint: (0.101mm < 0.127mm) Between Track (1.595mm,2.405mm)(3.052mm,0.948mm) on TOP SIG And Via (3.5mm,1mm) from TOP SIG to BOTTOM SIG 
-   Violation between Clearance Constraint: (0.23mm < 0.25mm) Between Hole of Via (3.5mm,1mm) from TOP SIG to BOTTOM SIG And Track (2.5mm,0.75mm)(3.396mm,1.646mm) on BOTTOM SIG 
-   Violation between Clearance Constraint: (0.101mm < 0.127mm) Between Track (3.052mm,-3.548mm)(3.052mm,0.948mm) on TOP SIG And Via (3.5mm,1mm) from TOP SIG to BOTTOM SIG 
-   Violation between Clearance Constraint: (0.095mm < 0.127mm) Between Track (7.338mm,4.288mm)(8.15mm,5.1mm) on BOTTOM SIG And Via (8mm,4.25mm) from TOP SIG to BOTTOM SIG 
-Rule Violations :6
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-   Violation between Short-Circuit Constraint: Between Pad C2-1(-19.479mm,-11.5mm) on BOTTOM SIG And Polygon Region (52 hole(s)) BOTTOM SIG Location : [X = 80.521mm][Y = 88.5mm]
    Violation between Short-Circuit Constraint: Between Pad J1-(-20mm,7.305mm) on Multi-Layer And Pad J4-(-20mm,7.305mm) on Multi-Layer Location : [X = 80mm][Y = 107.305mm]
    Violation between Short-Circuit Constraint: Between Pad J1-(-20mm,-7.305mm) on Multi-Layer And Pad J4-(-20mm,-7.305mm) on Multi-Layer Location : [X = 80mm][Y = 92.695mm]
    Violation between Short-Circuit Constraint: Between Pad J2-(20mm,7.305mm) on Multi-Layer And Pad J5-(20mm,7.305mm) on Multi-Layer Location : [X = 120mm][Y = 107.305mm]
    Violation between Short-Circuit Constraint: Between Pad J2-(20mm,-7.305mm) on Multi-Layer And Pad J5-(20mm,-7.305mm) on Multi-Layer Location : [X = 120mm][Y = 92.695mm]
-   Violation between Short-Circuit Constraint: Between Polygon Region (52 hole(s)) BOTTOM SIG And Track (-20.75mm,-11.5mm)(-19.479mm,-11.5mm) on BOTTOM SIG Location : [X = 80.147mm][Y = 88.5mm]
-Rule Violations :6
+Rule Violations :4
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net VCC Between Arc (-18.08mm,10.921mm) on BOTTOM SIG And Pad R6-1(-10.5mm,11.85mm) on BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad R10-2(-28.55mm,28.6mm) on BOTTOM SIG And Pad C22-2(-16.882mm,16.788mm) on BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad SW2-2(-10.5mm,21.125mm) on TOP SIG And Pad C30-2(-10.5mm,21.204mm) on BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C32-2(15.721mm,11.6mm) on TOP SIG And Pad C33-2(15.721mm,13.1mm) on TOP SIG 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C40-2(14.5mm,-17.479mm) on BOTTOM SIG And Pad R68-2(27.25mm,-17.1mm) on TOP SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad C4-1(4.729mm,13.25mm) on BOTTOM SIG And Track (4.729mm,11.75mm)(4.819mm,11.66mm) on BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C41-2(14.75mm,-8.521mm) on BOTTOM SIG And Pad U13-7(15.25mm,-11.75mm) on BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad J6-01(-13.471mm,13.029mm) on Multi-Layer And Pad C45-1(-13mm,7.521mm) on TOP SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad C5-1(4.729mm,20.75mm) on BOTTOM SIG And Track (4.729mm,14.75mm)(4.915mm,14.564mm) on BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net PYRO_PWR Between Pad C51-1(13mm,-2.729mm) on BOTTOM SIG And Via (18.285mm,-1.905mm) from TOP SIG to BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad R29-2(14.65mm,16.25mm) on BOTTOM SIG And Pad D1-2(14.8mm,18.05mm) on TOP SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Track (17.925mm,11.5mm)(18.225mm,11.5mm) on BOTTOM SIG And Pad D5-3(21.3mm,9.95mm) on TOP SIG 
-   Violation between Un-Routed Net Constraint: Net VCC Between Via (-21.715mm,5.715mm) from TOP SIG to BOTTOM SIG And Pad J4-02(-18.285mm,5.715mm) on TOP SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Track (-16.172mm,13.931mm)(-15.966mm,14.201mm) on BOTTOM SIG And Pad J6-01(-13.471mm,13.029mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net HYDRA_5V_SENSE Between Pad R10-1(-27.25mm,28.6mm) on BOTTOM SIG And Pad R8-2(-26.1mm,27.4mm) on BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad R22-1(16.475mm,14.825mm) on BOTTOM SIG And Pad R25-1(16.475mm,16.175mm) on BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad R22-1(16.475mm,14.825mm) on BOTTOM SIG And Pad R30-1(18.475mm,13.175mm) on BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad R29-2(14.65mm,16.25mm) on BOTTOM SIG And Pad R25-1(16.475mm,16.175mm) on BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad R30-1(18.475mm,13.175mm) on BOTTOM SIG And Track (18.475mm,11.75mm)(18.475mm,11.825mm) on BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net ACT_PWR Between Pad R51-1(-33mm,-18.35mm) on TOP SIG And Track (2.75mm,-11.5mm)(2.75mm,-4.5mm) on BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net ACT_V_SENSE Between Pad R53-1(-33mm,-20.85mm) on TOP SIG And Pad R51-2(-33mm,-19.65mm) on TOP SIG 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad R53-2(-33mm,-22.15mm) on TOP SIG And Via (-18mm,-15.25mm) from TOP SIG to BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad R65-1(10.5mm,0.9mm) on BOTTOM SIG And Track (10.504mm,3.921mm)(10.504mm,5.496mm) on TOP SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Track (13.825mm,-11.25mm)(14mm,-11.25mm) on BOTTOM SIG And Pad R67-1(33mm,-18.4mm) on TOP SIG 
-   Violation between Un-Routed Net Constraint: Net HYDRA_3V3_SENSE Between Pad R68-1(27.25mm,-18.4mm) on TOP SIG And Pad R67-2(33mm,-17.1mm) on TOP SIG 
-   Violation between Un-Routed Net Constraint: Net 5V Between Pad R8-1(-26.1mm,28.7mm) on BOTTOM SIG And Track (-16.769mm,14.805mm)(-16.064mm,15.938mm) on BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Track (-18.676mm,-12.5mm)(-18.181mm,-12.995mm) on TOP SIG And Pad SD1-4(-10.61mm,-12.86mm) on TOP SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad SW2-2(-10.5mm,21.125mm) on TOP SIG And Track (-6mm,20.776mm)(-5.75mm,20.526mm) on TOP SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Track (-0.5mm,-0.925mm)(-0.49mm,-0.935mm) on TOP SIG And Pad U10-8(1.175mm,-0.75mm) on TOP SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad U1-100(6mm,7.425mm) on TOP SIG And Via (7.75mm,6.5mm) from TOP SIG to BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net BOOT Between Track (-11.675mm,19.193mm)(-10.825mm,19.193mm) on BOTTOM SIG And Pad U1-94(3mm,7.425mm) on TOP SIG 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-99(5.5mm,7.425mm) on TOP SIG And Pad U9-3(5.575mm,5.4mm) on TOP SIG 
-   Violation between Un-Routed Net Constraint: Net MAG_SCL Between Via (-9.514mm,8.486mm) from TOP SIG to BOTTOM SIG And Pad U4-A2(-9.3mm,7.7mm) on TOP SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad U5-3(0.675mm,-4.95mm) on TOP SIG And Via (1.5mm,-3.5mm) from TOP SIG to BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad U8-11(1.975mm,-0.75mm) on BOTTOM SIG And Pad U8-8(1.975mm,0.75mm) on BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad U8-11(1.975mm,-0.75mm) on BOTTOM SIG And Track (1.979mm,-2.5mm)(1.979mm,-0.979mm) on TOP SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Track (-11.5mm,7.521mm)(-11.279mm,7.3mm) on TOP SIG And Track (-10.75mm,7.9mm)(-10.675mm,7.9mm) on BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (10.504mm,5.496mm) from TOP SIG to BOTTOM SIG And Track (16.75mm,10.4mm)(16.825mm,10.4mm) on BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (1.25mm,16.5mm) from TOP SIG to BOTTOM SIG And Track (4.729mm,14.75mm)(4.915mm,14.564mm) on BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Track (7.776mm,6.5mm)(8.026mm,6.75mm) on BOTTOM SIG And Track (7.338mm,4.288mm)(8.15mm,5.1mm) on BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Track (8.026mm,6.75mm)(9mm,6.75mm) on BOTTOM SIG And Via (10.504mm,5.496mm) from TOP SIG to BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (-8.75mm,4.748mm) from TOP SIG to BOTTOM SIG And Track (-8.825mm,8.15mm)(-8.575mm,7.9mm) on BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (-10.61mm,-11.5mm) from TOP SIG to BOTTOM SIG And Via (0.5mm,-6.5mm) from TOP SIG to BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (-5.75mm,20.5mm) from TOP SIG to BOTTOM SIG And Via (1.25mm,16.5mm) from TOP SIG to BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (-3.25mm,-0.75mm) from TOP SIG to BOTTOM SIG And Via (-1.75mm,-3.5mm) from TOP SIG to BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (3.552mm,-2mm) from TOP SIG to BOTTOM SIG And Via (14.5mm,-10.5mm) from TOP SIG to BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net PRE_5V Between Via (-18.285mm,3.175mm) from TOP SIG to BOTTOM SIG And Via (-18.285mm,4.445mm) from TOP SIG to BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net PRE_5V Between Via (-21.715mm,3.175mm) from TOP SIG to BOTTOM SIG And Via (-18.285mm,3.175mm) from TOP SIG to BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net PRE_5V Between Via (-21.715mm,3.175mm) from TOP SIG to BOTTOM SIG And Via (-21.715mm,4.445mm) from TOP SIG to BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (-7.25mm,4mm) from TOP SIG to BOTTOM SIG And Via (-3.25mm,-0.75mm) from TOP SIG to BOTTOM SIG 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (5.75mm,9.25mm) from TOP SIG to BOTTOM SIG And Via (5.75mm,11.5mm) from TOP SIG to BOTTOM SIG 
-Rule Violations :51
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -84,10 +25,10 @@ Rule Violations :0
 Processing Rule : Width Constraint (Min=0.102mm) (Max=1816.048mm) (Preferred=0.102mm) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.3mm) (Conductor Width=0.102mm) (Air Gap=0.102mm) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (InPadClass('PowerPads'))
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (InPadClass('PowerPads'))
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.3mm) (Conductor Width=0.102mm) (Air Gap=0.102mm) (Entries=4) (All)
 Rule Violations :0
 
 Processing Rule : Minimum Annular Ring (Minimum=0.076mm) (All)
@@ -107,43 +48,26 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0.102mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Arc (-14.45mm,3.95mm) on Bottom Overlay And Pad R20-1(-14.4mm,3.5mm) on BOTTOM SIG [Bottom Overlay] to [Bottom Solder] clearance [0mm]
    Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Arc (16.95mm,-9.55mm) on Bottom Overlay And Pad R39-1(16.25mm,-9.65mm) on BOTTOM SIG [Bottom Overlay] to [Bottom Solder] clearance [0mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.063mm < 0.102mm) Between Arc (4.537mm,-9.712mm) on Top Overlay And Pad U12-1(5.1mm,-9.1mm) on TOP SIG [Top Overlay] to [Top Solder] clearance [0.063mm]
    Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Arc (5.95mm,5.2mm) on Bottom Overlay And Pad R43-2(5.5mm,5.15mm) on BOTTOM SIG [Bottom Overlay] to [Bottom Solder] clearance [0mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.026mm < 0.102mm) Between Arc (9.5mm,-9.975mm) on Bottom Overlay And Pad R56-2(10.25mm,-9.65mm) on BOTTOM SIG [Bottom Overlay] to [Bottom Solder] clearance [0.026mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad C23-2(-14.118mm,14.712mm) on BOTTOM SIG And Track (-13.736mm,14.664mm)(-13.736mm,16.336mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad C25-2(-13mm,15.021mm) on BOTTOM SIG And Track (-14.725mm,16.091mm)(-13.389mm,15.085mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.078mm < 0.102mm) Between Pad C53-1(7.5mm,-8.521mm) on BOTTOM SIG And Track (8.014mm,-9.836mm)(8.014mm,-8.164mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.078mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.078mm < 0.102mm) Between Pad C53-2(7.5mm,-9.479mm) on BOTTOM SIG And Track (8.014mm,-9.836mm)(8.014mm,-8.164mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.078mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.078mm < 0.102mm) Between Pad C54-1(8.75mm,-8.521mm) on BOTTOM SIG And Track (8.236mm,-9.836mm)(8.236mm,-8.164mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.078mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.078mm < 0.102mm) Between Pad C54-2(8.75mm,-9.479mm) on BOTTOM SIG And Track (8.236mm,-9.836mm)(8.236mm,-8.164mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.078mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad R10-1(-27.25mm,28.6mm) on BOTTOM SIG And Track (-26.8mm,27.85mm)(-26.8mm,28.25mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-Rule Violations :9
+Rule Violations :11
 
 Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-   Violation between Net Antennae: Via (1.25mm,16.5mm) from TOP SIG to BOTTOM SIG 
-   Violation between Net Antennae: Via (-1.75mm,-3.5mm) from TOP SIG to BOTTOM SIG 
-   Violation between Net Antennae: Via (-7.25mm,4.748mm) from TOP SIG to BOTTOM SIG 
-   Violation between Net Antennae: Via (-7.25mm,4mm) from TOP SIG to BOTTOM SIG 
-   Violation between Net Antennae: Via (-8.75mm,4.748mm) from TOP SIG to BOTTOM SIG 
-   Violation between Net Antennae: Via (-8mm,4.748mm) from TOP SIG to BOTTOM SIG 
-   Violation between Net Antennae: Via (-9.514mm,8.486mm) from TOP SIG to BOTTOM SIG 
-Rule Violations :7
+Rule Violations :0
 
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Pad R10-1(-27.25mm,28.6mm) on BOTTOM SIG 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Pad R10-2(-28.55mm,28.6mm) on BOTTOM SIG 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Pad R51-1(-33mm,-18.35mm) on TOP SIG 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Pad R51-2(-33mm,-19.65mm) on TOP SIG 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Pad R53-1(-33mm,-20.85mm) on TOP SIG 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Pad R53-2(-33mm,-22.15mm) on TOP SIG 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Pad R67-1(33mm,-18.4mm) on TOP SIG 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Pad R67-2(33mm,-17.1mm) on TOP SIG 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Pad R68-1(27.25mm,-18.4mm) on TOP SIG 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Pad R68-2(27.25mm,-17.1mm) on TOP SIG 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Pad R8-1(-26.1mm,28.7mm) on BOTTOM SIG 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Pad R8-2(-26.1mm,27.4mm) on BOTTOM SIG 
    Violation between Board Outline Clearance(Outline Edge): (0.1mm < 0.2mm) Between Board Edge And Pad SD1-12(-2.65mm,-15.95mm) on TOP SIG 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "CAN
 0" (-23.85mm,-11.25mm) on Top Overlay 
@@ -153,32 +77,15 @@ ANT" (15.25mm,-17.905mm) on Top Overlay
    Violation between Board Outline Clearance(Outline Edge): (0.113mm < 0.2mm) Between Board Edge And Text "MCU" (-9.44mm,22.066mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.197mm < 0.2mm) Between Board Edge And Text "NAV" (17.95mm,13.65mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.08mm < 0.2mm) Between Board Edge And Text "PWR" (11.95mm,19.65mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "R67" (32.454mm,-15.655mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "R68" (26.704mm,-15.655mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.135mm < 0.2mm) Between Board Edge And Text "WA
 KE" (-16.5mm,16.3mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (1.655mm,-18.9mm)(11.345mm,-18.9mm) on Bottom Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (2.275mm,-19.05mm)(2.275mm,-15.25mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (2.275mm,-19.05mm)(5.725mm,-19.05mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (-25.4mm,27.85mm)(-25.4mm,28.25mm) on Bottom Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (26.55mm,-17.95mm)(26.55mm,-17.55mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (-26.8mm,27.85mm)(-26.8mm,28.25mm) on Bottom Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (27.95mm,-17.95mm)(27.95mm,-17.55mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (-28.1mm,27.9mm)(-27.7mm,27.9mm) on Bottom Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (-28.1mm,29.3mm)(-27.7mm,29.3mm) on Bottom Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (32.3mm,-17.95mm)(32.3mm,-17.55mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (-32.3mm,-19.2mm)(-32.3mm,-18.8mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (-32.3mm,-21.7mm)(-32.3mm,-21.3mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (33.7mm,-17.95mm)(33.7mm,-17.55mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (-33.7mm,-19.2mm)(-33.7mm,-18.8mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (-33.7mm,-21.7mm)(-33.7mm,-21.3mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (5.725mm,-19.05mm)(5.725mm,-15.25mm) on Top Overlay 
-Rule Violations :38
+Rule Violations :9
 
 Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 121
+Violations Detected : 28
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:00
