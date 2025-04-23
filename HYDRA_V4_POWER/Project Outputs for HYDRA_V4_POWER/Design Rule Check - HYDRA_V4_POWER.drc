@@ -1,10 +1,14 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\se097192\Documents\0_PERSONAL\HYDRA\HYDRA_V4_POWER\HYDRA_V4_POWER.PcbDoc
-Date     : 04/21/2025
-Time     : 8:26:48 PM
+Date     : 04/22/2025
+Time     : 9:58:54 PM
 
 Processing Rule : Clearance Constraint (Gap=0.102mm) (All),(All)
-Rule Violations :0
+   Violation between Clearance Constraint: (0.245mm < 0.25mm) Between Hole of Via (18.635mm,1.905mm) from Top Layer to Bottom Layer And Track (13.067mm,2.5mm)(22.015mm,2.5mm) on GND+SIG 
+   Violation between Clearance Constraint: (0.245mm < 0.25mm) Between Hole of Via (21.365mm,1.905mm) from Top Layer to Bottom Layer And Track (13.067mm,2.5mm)(22.015mm,2.5mm) on GND+SIG 
+   Violation between Clearance Constraint: (0.122mm < 0.127mm) Between Track (-19.829mm,-3.747mm)(-16.534mm,-3.747mm) on Top Layer And Via (-18.635mm,-3.175mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (0.122mm < 0.127mm) Between Track (-22.06mm,-2.603mm)(-20.255mm,-2.603mm) on Bottom Layer And Via (-21.365mm,-3.175mm) from Top Layer to Bottom Layer 
+Rule Violations :4
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
    Violation between Short-Circuit Constraint: Between Pad J1-(-20mm,7.305mm) on Multi-Layer And Pad J4-(-20mm,7.305mm) on Multi-Layer Location : [X = 80mm][Y = 107.305mm]
@@ -89,7 +93,7 @@ Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
    Violation between Board Outline Clearance(Outline Edge): (0.037mm < 0.2mm) Between Board Edge And Pad J7-7(15.85mm,-17.425mm) on Top Layer 
    Violation between Board Outline Clearance(Outline Edge): (0.015mm < 0.2mm) Between Board Edge And Pad J8-5(-1.725mm,-17.425mm) on Top Layer 
    Violation between Board Outline Clearance(Outline Edge): (0.163mm < 0.2mm) Between Board Edge And Text "PWR" (11.95mm,19.65mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "RST" (-17.3mm,16.6mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "RST" (-17.2mm,16.8mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.062mm < 0.2mm) Between Board Edge And Track (-13.95mm,-15.95mm)(-13.95mm,-14.25mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.062mm < 0.2mm) Between Board Edge And Track (-13.95mm,-15.95mm)(-4.05mm,-15.95mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (0.062mm < 0.2mm) Between Board Edge And Track (-4.05mm,-15.95mm)(-4.05mm,-14.25mm) on Top Overlay 
@@ -99,6 +103,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm)
 Rule Violations :0
 
 
-Violations Detected : 47
+Violations Detected : 51
 Waived Violations : 0
 Time Elapsed        : 00:00:02

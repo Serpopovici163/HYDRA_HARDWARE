@@ -1,19 +1,17 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\se097192\Documents\0_PERSONAL\HYDRA\HYDRA_V4_RECOVERY\HYDRA_V4_RECOVERY.PcbDoc
-Date     : 04/20/2025
-Time     : 8:50:01 PM
+Date     : 04/22/2025
+Time     : 8:48:57 PM
 
 Processing Rule : Clearance Constraint (Gap=0.102mm) (All),(All)
-   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad U4-25(0mm,0mm) on Top Layer And Via (0mm,0mm) from Top Layer to Bottom Layer 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
    Violation between Short-Circuit Constraint: Between Pad J1-(-20mm,7.305mm) on Multi-Layer And Pad J6-(-20mm,7.305mm) on Multi-Layer Location : [X = 80mm][Y = 107.305mm]
    Violation between Short-Circuit Constraint: Between Pad J1-(-20mm,-7.305mm) on Multi-Layer And Pad J6-(-20mm,-7.305mm) on Multi-Layer Location : [X = 80mm][Y = 92.695mm]
    Violation between Short-Circuit Constraint: Between Pad J2-(20mm,7.305mm) on Multi-Layer And Pad J7-(20mm,7.305mm) on Multi-Layer Location : [X = 120mm][Y = 107.305mm]
    Violation between Short-Circuit Constraint: Between Pad J2-(20mm,-7.305mm) on Multi-Layer And Pad J7-(20mm,-7.305mm) on Multi-Layer Location : [X = 120mm][Y = 92.695mm]
-   Violation between Short-Circuit Constraint: Between Pad U4-25(0mm,0mm) on Top Layer And Via (0mm,0mm) from Top Layer to Bottom Layer Location : [X = 100mm][Y = 100mm]
-Rule Violations :5
+Rule Violations :4
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
@@ -71,29 +69,28 @@ Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
    Violation between Board Outline Clearance(Outline Edge): (0.162mm < 0.2mm) Between Board Edge And Text "DROGUE" (17.65mm,10.65mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "EM
 OUT" (-19.549mm,-17.5mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (0.062mm < 0.2mm) Between Board Edge And Text "MCU" (15.65mm,16.65mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (0.121mm < 0.2mm) Between Board Edge And Text "RST" (-17.2mm,17mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.133mm < 0.2mm) Between Board Edge And Text "PWR" (11.95mm,19.65mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "SFTY
 SW" (15mm,-18mm) on Top Overlay 
-Rule Violations :5
+Rule Violations :4
 
 Processing Rule : Matched Lengths(Delay Tolerance=1ps) (InNetClass('DCMI'))
-   Violation between Matched Net Lengths: Between Net HS And Net LLC Delay:229.502ps is not within 1ps tolerance of Delay:245.145ps (14.643ps smaller) 
-   Violation between Matched Net Lengths: Between Net HS And Net P0 Delay:90.443ps is not within 1ps tolerance of Delay:245.145ps (153.702ps smaller) 
-   Violation between Matched Net Lengths: Between Net HS And Net P1 Delay:87.167ps is not within 1ps tolerance of Delay:245.145ps (156.978ps smaller) 
-   Violation between Matched Net Lengths: Between Net HS And Net P2 Delay:83.891ps is not within 1ps tolerance of Delay:245.145ps (160.255ps smaller) 
-   Violation between Matched Net Lengths: Between Net HS And Net P3 Delay:80.52ps is not within 1ps tolerance of Delay:245.145ps (163.626ps smaller) 
-   Violation between Matched Net Lengths: Between Net HS And Net P4 Delay:32.079ps is not within 1ps tolerance of Delay:245.145ps (212.066ps smaller) 
-   Violation between Matched Net Lengths: Between Net HS And Net P5 Delay:42.579ps is not within 1ps tolerance of Delay:245.145ps (201.566ps smaller) 
-   Violation between Matched Net Lengths: Between Net HS And Net P6 Delay:78.003ps is not within 1ps tolerance of Delay:245.145ps (166.142ps smaller) 
-   Violation between Matched Net Lengths: Between Net HS And Net P7 Delay:80.908ps is not within 1ps tolerance of Delay:245.145ps (163.237ps smaller) 
-   Violation between Matched Net Lengths: Between Net HS And Net VS Delay:155.119ps is not within 1ps tolerance of Delay:245.145ps (89.027ps smaller) 
+   Violation between Matched Net Lengths: Between Net HS And Net LLC Delay:230.016ps is not within 1ps tolerance of Delay:245.659ps (14.643ps smaller) 
+   Violation between Matched Net Lengths: Between Net HS And Net P0 Delay:90.443ps is not within 1ps tolerance of Delay:245.659ps (154.216ps smaller) 
+   Violation between Matched Net Lengths: Between Net HS And Net P1 Delay:87.167ps is not within 1ps tolerance of Delay:245.659ps (157.492ps smaller) 
+   Violation between Matched Net Lengths: Between Net HS And Net P2 Delay:83.891ps is not within 1ps tolerance of Delay:245.659ps (160.768ps smaller) 
+   Violation between Matched Net Lengths: Between Net HS And Net P3 Delay:80.52ps is not within 1ps tolerance of Delay:245.659ps (164.139ps smaller) 
+   Violation between Matched Net Lengths: Between Net HS And Net P4 Delay:32.079ps is not within 1ps tolerance of Delay:245.659ps (212.579ps smaller) 
+   Violation between Matched Net Lengths: Between Net HS And Net P5 Delay:42.579ps is not within 1ps tolerance of Delay:245.659ps (202.08ps smaller) 
+   Violation between Matched Net Lengths: Between Net HS And Net P6 Delay:78.003ps is not within 1ps tolerance of Delay:245.659ps (166.656ps smaller) 
+   Violation between Matched Net Lengths: Between Net HS And Net P7 Delay:80.908ps is not within 1ps tolerance of Delay:245.659ps (163.751ps smaller) 
+   Violation between Matched Net Lengths: Between Net HS And Net VS Delay:155.632ps is not within 1ps tolerance of Delay:245.659ps (89.027ps smaller) 
 Rule Violations :10
 
 Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 37
+Violations Detected : 34
 Waived Violations : 0
 Time Elapsed        : 00:00:02
