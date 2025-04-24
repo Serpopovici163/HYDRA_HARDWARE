@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\se097192\Documents\0_PERSONAL\HYDRA\HYDRA_V4_NAV\HYDRA_V4_NAV.PcbDoc
-Date     : 04/22/2025
-Time     : 9:56:17 PM
+Date     : 04/24/2025
+Time     : 7:01:21 PM
 
 Processing Rule : Clearance Constraint (Gap=0.102mm) (All),(All)
 Rule Violations :0
@@ -49,15 +49,16 @@ Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0.102mm) (IsPad),(All)
    Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Arc (-14.45mm,3.95mm) on Bottom Overlay And Pad R20-1(-14.4mm,3.5mm) on BOTTOM SIG [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.05mm < 0.102mm) Between Arc (-14.45mm,-4.1mm) on Bottom Overlay And Pad F2-1(-14.65mm,-4.75mm) on BOTTOM SIG [Bottom Overlay] to [Bottom Solder] clearance [0.05mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.063mm < 0.102mm) Between Arc (14.463mm,0.712mm) on Top Overlay And Pad U12-1(13.9mm,0.1mm) on TOP SIG [Top Overlay] to [Top Solder] clearance [0.063mm]
    Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Arc (16.95mm,-9.55mm) on Bottom Overlay And Pad R39-1(16.25mm,-9.65mm) on BOTTOM SIG [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.063mm < 0.102mm) Between Arc (4.537mm,-9.712mm) on Top Overlay And Pad U12-1(5.1mm,-9.1mm) on TOP SIG [Top Overlay] to [Top Solder] clearance [0.063mm]
    Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Arc (5.95mm,5.2mm) on Bottom Overlay And Pad R43-2(5.5mm,5.15mm) on BOTTOM SIG [Bottom Overlay] to [Bottom Solder] clearance [0mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.026mm < 0.102mm) Between Arc (9.5mm,-9.975mm) on Bottom Overlay And Pad R56-2(10.25mm,-9.65mm) on BOTTOM SIG [Bottom Overlay] to [Bottom Solder] clearance [0.026mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.078mm < 0.102mm) Between Pad C53-1(7.5mm,-8.521mm) on BOTTOM SIG And Track (8.014mm,-9.836mm)(8.014mm,-8.164mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.078mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.078mm < 0.102mm) Between Pad C53-2(7.5mm,-9.479mm) on BOTTOM SIG And Track (8.014mm,-9.836mm)(8.014mm,-8.164mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.078mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.078mm < 0.102mm) Between Pad C54-1(8.75mm,-8.521mm) on BOTTOM SIG And Track (8.236mm,-9.836mm)(8.236mm,-8.164mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.078mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.078mm < 0.102mm) Between Pad C54-2(8.75mm,-9.479mm) on BOTTOM SIG And Track (8.236mm,-9.836mm)(8.236mm,-8.164mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.078mm]
-Rule Violations :9
+Rule Violations :10
 
 Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
 Rule Violations :0
@@ -69,7 +70,7 @@ Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
    Violation between Board Outline Clearance(Outline Edge): (0.1mm < 0.2mm) Between Board Edge And Pad SD1-12(-2.65mm,-15.95mm) on TOP SIG 
    Violation between Board Outline Clearance(Outline Edge): (0.098mm < 0.2mm) Between Board Edge And Text "GPS
 ANT" (14.75mm,-18.155mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (0.08mm < 0.2mm) Between Board Edge And Text "PWR" (11.95mm,19.65mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.162mm < 0.2mm) Between Board Edge And Text "PWR" (11.95mm,19.55mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (1.655mm,-18.9mm)(11.345mm,-18.9mm) on Bottom Overlay 
 Rule Violations :4
 
@@ -77,6 +78,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm)
 Rule Violations :0
 
 
-Violations Detected : 21
+Violations Detected : 22
 Waived Violations : 0
 Time Elapsed        : 00:00:01
