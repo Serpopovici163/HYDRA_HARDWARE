@@ -236,6 +236,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YGXRVTWC
 
+[Document12]
+DocumentPath=HYDRA_V4_LINK_V2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TRMLEWKK
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for HYDRA_V4_LINK\Design Rule Check - HYDRA_V4_LINK.html
 DItemRevisionGUID=
