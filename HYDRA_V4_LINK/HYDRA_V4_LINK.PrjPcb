@@ -152,7 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GPOALQNJ
 
 [Document7]
-DocumentPath=HYDRA_V4_LINK.PcbDoc
+DocumentPath=HYDRA_V4_LINK_OLD.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -253,12 +253,178 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TRMLEWKK
 
+[Document13]
+DocumentPath=HYDRA_V4_LINK.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document14]
+DocumentPath=OUT.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for HYDRA_V4_LINK\Design Rule Check - HYDRA_V4_LINK.html
+DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-HYDRA_V4_LINK.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for HYDRA_V4_LINK\Design Rule Check - HYDRA_V4_LINK.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for HYDRA_V4_LINK\Design Rule Check - HYDRA_V4_LINK_V2.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=0_EXPORT\2025_04_25\NC Drill\HYDRA_V4_LINK_V2.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Free Documents\NC Drill\HYDRA_V4_LINK_V2.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=0_EXPORT\2025_04_25\Gerber\HYDRA_V4_LINK_V2.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Free Documents\Gerber\HYDRA_V4_LINK_V2.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=0_EXPORT\2025_04_25\Gerber\HYDRA_V4_LINK_V2.G1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Free Documents\Gerber\HYDRA_V4_LINK_V2.G1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=0_EXPORT\2025_04_25\Gerber\HYDRA_V4_LINK_V2.G2
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Free Documents\Gerber\HYDRA_V4_LINK_V2.G2
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=0_EXPORT\2025_04_25\Gerber\HYDRA_V4_LINK_V2.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Free Documents\Gerber\HYDRA_V4_LINK_V2.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=0_EXPORT\2025_04_25\Gerber\HYDRA_V4_LINK_V2.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Free Documents\Gerber\HYDRA_V4_LINK_V2.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=0_EXPORT\2025_04_25\Gerber\HYDRA_V4_LINK_V2.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Free Documents\Gerber\HYDRA_V4_LINK_V2.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=0_EXPORT\2025_04_25\Gerber\HYDRA_V4_LINK_V2.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Free Documents\Gerber\HYDRA_V4_LINK_V2.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=0_EXPORT\2025_04_25\Gerber\HYDRA_V4_LINK_V2.GM
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Free Documents\Gerber\HYDRA_V4_LINK_V2.GM
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=0_EXPORT\2025_04_25\Gerber\HYDRA_V4_LINK_V2.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Free Documents\Gerber\HYDRA_V4_LINK_V2.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=0_EXPORT\2025_04_25\Gerber\HYDRA_V4_LINK_V2.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Free Documents\Gerber\HYDRA_V4_LINK_V2.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=0_EXPORT\2025_04_25\Gerber\HYDRA_V4_LINK_V2.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Free Documents\Gerber\HYDRA_V4_LINK_V2.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=0_EXPORT\2025_04_25\Gerber\HYDRA_V4_LINK_V2.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Free Documents\Gerber\HYDRA_V4_LINK_V2.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=0_EXPORT\2025_04_25\Gerber\HYDRA_V4_LINK_V2.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Free Documents\Gerber\HYDRA_V4_LINK_V2.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Free Documents\NC Drill\HYDRA_V4_LINK_V2.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Free Documents\Gerber\HYDRA_V4_LINK_V2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=0_EXPORT\2025_04_25\NC Drill\HYDRA_V4_LINK_V2.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Free Documents\NC Drill\HYDRA_V4_LINK_V2.TXT
 DItemRevisionGUID=
 
 [Configuration1]

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [HYDRA_V4_NAV.PcbDoc]
+   Generated File[HYDRA_V4_NAV.TXT]
+   Generated File[HYDRA_V4_NAV.LDP]
+   Generated File[HYDRA_V4_NAV.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:31:58 PM On 04/25/2025
