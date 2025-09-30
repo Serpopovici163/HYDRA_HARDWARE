@@ -1,0 +1,2 @@
+Add alignment notches to PCB to align them with the airframe
+Link board power redundancy was kinda half assed, do a better job
